@@ -149,3 +149,34 @@ end
 effects_list.each do |name|
   Effect.create(name: name)
 end
+
+
+
+strains = ActiveSupport::JSON.decode(File.read('db/seeds/strains.json'))
+strain_indica = strains['indica']
+strain_sativa = strains['sativa']
+strain_hybrid = strains['hybrid']
+
+strain_indica.each do |indica|
+  Strain.create(
+    name: indica['name'], 
+    symbol: indica['symbol'],
+    category_id: 2
+  )
+end
+
+strain_sativa.each do |sativa|
+  Strain.create(
+    name: sativa['name'], 
+    symbol: sativa['symbol'],
+    category_id: 1
+  )
+end
+
+strain_hybrid.each do |hybrid|
+  Strain.create(
+    name: hybrid['name'], 
+    symbol: hybrid['symbol'],
+    category_id: 3
+  )
+end

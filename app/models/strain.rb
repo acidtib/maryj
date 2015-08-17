@@ -26,4 +26,13 @@ class Strain < ActiveRecord::Base
 
   has_many :symptom_items
   has_many :symptoms, :through => :symptom_items
+
+  before_create :generate_slug
+
+
+  private
+
+    def generate_slug
+      self.slug = self.name.parameterize
+    end
 end

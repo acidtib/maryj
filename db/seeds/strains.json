@@ -1,0 +1,7518 @@
+{
+  "indica": [
+    {
+      "category": "Indica",
+      "symbol": "Gdp",
+      "name": "Granddaddy Purple"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bk",
+      "name": "Bubba Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nl",
+      "name": "Northern Lights"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Chz",
+      "name": "Blue Cheese"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pk",
+      "name": "Purple Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bbk",
+      "name": "Blackberry Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ga",
+      "name": "Grape Ape"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bry",
+      "name": "Blueberry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mks",
+      "name": "Master Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Afk",
+      "name": "Afghan Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wr",
+      "name": "White Rhino"
+    },
+    {
+      "category": "Indica",
+      "symbol": "La",
+      "name": "LA Confidential"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sky",
+      "name": "Skywalker"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pu",
+      "name": "Purple Urkle"
+    },
+    {
+      "category": "Indica",
+      "symbol": "God",
+      "name": "God's Gift"
+    },
+    {
+      "category": "Indica",
+      "symbol": "G13",
+      "name": "G13"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ds",
+      "name": "Death Star"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hk",
+      "name": "Hindu Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Blk",
+      "name": "Blueberry Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rom",
+      "name": "Romulan"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mr",
+      "name": "Mr. Nice"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Afo",
+      "name": "Afgoo"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bw",
+      "name": "Berry White"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ok",
+      "name": "Orange Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Lar",
+      "name": "Lavender"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sen",
+      "name": "Sensi Star"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Plt",
+      "name": "Platinum OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Plk",
+      "name": "Platinum Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kos",
+      "name": "Kosher Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cm",
+      "name": "Critical Mass"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mgo",
+      "name": "Mango"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ssk",
+      "name": "Super Skunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Afg",
+      "name": "Afghani"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Van",
+      "name": "Vanilla Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Oba",
+      "name": "Obama Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mk",
+      "name": "MK Ultra"
+    },
+    {
+      "category": "Indica",
+      "symbol": "P98",
+      "name": "Pre-98 Bubba Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kng",
+      "name": "King Louis XIII"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hp",
+      "name": "Hash Plant"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gbd",
+      "name": "God Bud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hj",
+      "name": "Herijuana"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pbk",
+      "name": "Platinum Bubba Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pur",
+      "name": "Pure Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rsk",
+      "name": "Raspberry Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ogr",
+      "name": "Ogre"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kry",
+      "name": "Kryptonite"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kin",
+      "name": "King's Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cri",
+      "name": "Critical Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pok",
+      "name": "Purple OG Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bb",
+      "name": "Big Bud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bwr",
+      "name": "Blackwater"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Tru",
+      "name": "True OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ace",
+      "name": "Ace of Spades"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Shi",
+      "name": "Shishkaberry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dg",
+      "name": "Diamond OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bdm",
+      "name": "Black Domina"
+    },
+    {
+      "category": "Indica",
+      "symbol": "A10",
+      "name": "A-10"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Que",
+      "name": "Querkle"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dia",
+      "name": "Diablo"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cq",
+      "name": "Cheese Quake"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Prs",
+      "name": "Presidential OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wil",
+      "name": "Willy's Wonder"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dsb",
+      "name": "DJ Short Blueberry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Fck",
+      "name": "Fucking Incredible"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Af",
+      "name": "Afgooey"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bdi",
+      "name": "Black Diamond"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Afy",
+      "name": "Afghooey"
+    },
+    {
+      "category": "Indica",
+      "symbol": "M39",
+      "name": "M-39"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Yod",
+      "name": "Yoda OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bog",
+      "name": "Bubba OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wb",
+      "name": "White Berry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bgk",
+      "name": "Bubblegum Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Psh",
+      "name": "Plushberry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pmn",
+      "name": "Purple Mr. Nice"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pog",
+      "name": "Pot of Gold"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Tan",
+      "name": "Tangerine Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "N5",
+      "name": "Northern Lights #5"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Jed",
+      "name": "Jedi Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rck",
+      "name": "Rockstar"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Vio",
+      "name": "Violator Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mar",
+      "name": "Mars OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Xog",
+      "name": "XXX OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pwr",
+      "name": "Purple Wreck"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gog",
+      "name": "Godfather OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ing",
+      "name": "Ingrid"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bm",
+      "name": "Blue Mystic"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dth",
+      "name": "Death Star OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Chk",
+      "name": "Chocolate Chunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hsk",
+      "name": "Hindu Skunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pit",
+      "name": "Pitbull"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rk",
+      "name": "Redwood Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pap",
+      "name": "Papaya"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pow",
+      "name": "Power Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Smg",
+      "name": "Superman OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dv",
+      "name": "Darth Vader OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dks",
+      "name": "Dark Star"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mis",
+      "name": "Mazar I Sharif"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kb",
+      "name": "Kushberry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Chm",
+      "name": "Chemo"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pdd",
+      "name": "Purple Dragon"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Goo",
+      "name": "Goo"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Adg",
+      "name": "Alien Dawg"
+    },
+    {
+      "category": "Indica",
+      "symbol": "9lb",
+      "name": "9 Pound Hammer"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Blm",
+      "name": "Blue Moonshine"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Chu",
+      "name": "Church OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hog",
+      "name": "Hog's Breath"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Par",
+      "name": "Paris OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Jup",
+      "name": "Jupiter OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hg",
+      "name": "Hog"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Abu",
+      "name": "Abusive OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dyn",
+      "name": "Dynamite"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mon",
+      "name": "Monster Cookies"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sfk",
+      "name": "SFV OG Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sh",
+      "name": "Shiva Skunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ppk",
+      "name": "Platinum Purple Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Jgr",
+      "name": "Jgr"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pg",
+      "name": "Purple Goo"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mbb",
+      "name": "Master Bubba"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Abr",
+      "name": "Afghani Bullrider"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bdd",
+      "name": "Blue Diamond"
+    },
+    {
+      "category": "Indica",
+      "symbol": "UW",
+      "name": "UW"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pen",
+      "name": "Pennywise"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Alk",
+      "name": "Alien Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Srk",
+      "name": "Shark Shock"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bmb",
+      "name": "Black Mamba"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ppc",
+      "name": "Purple Candy"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bus",
+      "name": "Buddha's Sister"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dep",
+      "name": "Deep Purple"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bgd",
+      "name": "Blue God"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pn",
+      "name": "Purple Nepal"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wk",
+      "name": "White Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cfc",
+      "name": "Confidential Cheese"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pe",
+      "name": "Purple Elephant"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sbk",
+      "name": "Sugar Black Rose"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pha",
+      "name": "Phantom OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dbb",
+      "name": "Death Bubba"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sup",
+      "name": "Super Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Prb",
+      "name": "Purple Berry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ppa",
+      "name": "Purple Afghani"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sdo",
+      "name": "Snoop Dogg OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pc",
+      "name": "Purple Cream"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hbr",
+      "name": "Hashberry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Som",
+      "name": "Somango"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cad",
+      "name": "Cadillac Purple"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pug",
+      "name": "Pure OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pop",
+      "name": "Popcorn Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mjd",
+      "name": "Master Jedi"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Yum",
+      "name": "Yumboldt"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Coo",
+      "name": "Cookies Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Eg",
+      "name": "Early Girl"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dnk",
+      "name": "Danky Doodle"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gb",
+      "name": "Godberry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cor",
+      "name": "Corleone Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sig",
+      "name": "Silverback Gorilla"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bbg",
+      "name": "Big Bang"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pcd",
+      "name": "Purple Chemdawg"
+    },
+    {
+      "category": "Indica",
+      "symbol": "An",
+      "name": "Anesthesia"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wok",
+      "name": "Woody Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pua",
+      "name": "Pure Afghan"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gnk",
+      "name": "Green Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "3x",
+      "name": "3X Crazy"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bgw",
+      "name": "Big Wreck"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pb",
+      "name": "Purple Buddha"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cre",
+      "name": "Cream Caramel"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Grk",
+      "name": "Grape Krush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hh",
+      "name": "Hollands Hope"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Zog",
+      "name": "Zombie OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gp",
+      "name": "Green Poison"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Trk",
+      "name": "Triangle Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bcg",
+      "name": "Black Cherry OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bct",
+      "name": "BC Sweet Tooth"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Aur",
+      "name": "Aurora Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pjr",
+      "name": "Purple Jolly Rancher"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mog",
+      "name": "Mercury OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wat",
+      "name": "Watermelon"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Prp",
+      "name": "Purple Passion"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bsk",
+      "name": "Blueberry Skunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cac",
+      "name": "Cactus"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sdg",
+      "name": "Space Dawg"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nog",
+      "name": "Neptune OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Blb",
+      "name": "Blue Bastard"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rkl",
+      "name": "Rocklock"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gdr",
+      "name": "Green Dragon"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Tb",
+      "name": "Tora Bora"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Afs",
+      "name": "Afghan Skunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bkn",
+      "name": "Blue Knight"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cka",
+      "name": "Cherry Kola"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Liq",
+      "name": "Liquid Butter"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Skl",
+      "name": "Star Killer"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Tmk",
+      "name": "Tiger's Milk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bli",
+      "name": "Black Ice"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kt",
+      "name": "K Train"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gvt",
+      "name": "Gravity"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rar",
+      "name": "Rare Darkness"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Fz",
+      "name": "Freezeland"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Css",
+      "name": "Critical Sensi Star"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Abb",
+      "name": "Afghan Big Bud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wog",
+      "name": "White OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bkh",
+      "name": "Blackberry Hashplant"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pmb",
+      "name": "Purple Monkey Balls"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Blc",
+      "name": "The Black"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rku",
+      "name": "Rockstar Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bar",
+      "name": "Barbara Bud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wdw",
+      "name": "Wonder Woman OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Fks",
+      "name": "Frankenstein"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Lao",
+      "name": "LA OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rmk",
+      "name": "Rockstar Master Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ml",
+      "name": "Maple Leaf Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Odi",
+      "name": "Oregon Diesel"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rd",
+      "name": "Red Dwarf"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sgk",
+      "name": "Sugar Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gsk",
+      "name": "Grape Skunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Stc",
+      "name": "Strawberry Cheesecake"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bck",
+      "name": "Black Label Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ede",
+      "name": "Edelweiss"
+    },
+    {
+      "category": "Indica",
+      "symbol": "8bk",
+      "name": "8 Ball Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dsc",
+      "name": "Dank Schrader"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mob",
+      "name": "Mother of Berries"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Db",
+      "name": "Dream Berry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Aog",
+      "name": "Ancient OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rem",
+      "name": "Remedy"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ook",
+      "name": "Opal OG Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Csp",
+      "name": "Conspiracy Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bdy",
+      "name": "Blue Dynamite"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gmb",
+      "name": "Gumbo"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bwh",
+      "name": "Big White"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Skg",
+      "name": "Skydog"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hpk",
+      "name": "Hawaiian Purple Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mzk",
+      "name": "Mazar Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ntr",
+      "name": "Night Terror OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sdd",
+      "name": "Sunshine Daydream"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Fro",
+      "name": "Frosty"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Slf",
+      "name": "Sweet Lafayette"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Plu",
+      "name": "Pluto Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pez",
+      "name": "Pez"
+    },
+    {
+      "category": "Indica",
+      "symbol": "U2k",
+      "name": "U2 Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hdc",
+      "name": "Hardcore OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gig",
+      "name": "Gigabud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ban",
+      "name": "Banana Candy"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Blt",
+      "name": "Blue Lights"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Lv9",
+      "name": "Love Potion #9"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bru",
+      "name": "Black Russian"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gmc",
+      "name": "Grimace"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Suc",
+      "name": "Super Cheese"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sbb",
+      "name": "Sour Bubble"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Abo",
+      "name": "Aurora Borealis"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bdt",
+      "name": "Buddha Tahoe"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nug",
+      "name": "Nuggetry OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Msc",
+      "name": "Mad Scientist"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rog",
+      "name": "Rollex OG Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Juk",
+      "name": "Jupiter Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ghi",
+      "name": "Grand Hindu"
+    },
+    {
+      "category": "Indica",
+      "symbol": "B52",
+      "name": "B-52"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gld",
+      "name": "Goldberry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ray",
+      "name": "Ray Charles"
+    },
+    {
+      "category": "Indica",
+      "symbol": "W43",
+      "name": "White Fire 43"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bdg",
+      "name": "Brains Damage"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nor",
+      "name": "Nordle"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ccn",
+      "name": "Candy Cane"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sb",
+      "name": "Seattle Blue"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nb",
+      "name": "Northern Berry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ptk",
+      "name": "Pine Tar Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Crn",
+      "name": "Crown OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bbr",
+      "name": "Blackberry Rhino"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Opl",
+      "name": "OG's Pearl"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Chg",
+      "name": "Critical Hog"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pst",
+      "name": "Purple Star"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Fm",
+      "name": "Funky Monkey"
+    },
+    {
+      "category": "Indica",
+      "symbol": "End",
+      "name": "Endless Sky"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Amk",
+      "name": "American Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gui",
+      "name": "Guido Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Msk",
+      "name": "Misty Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Fac",
+      "name": "Face Off OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Shk",
+      "name": "Stephen Hawking Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dig",
+      "name": "Digweed"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gox",
+      "name": "Grape OX"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bc",
+      "name": "Bubble Cheese"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Eni",
+      "name": "Enigma"
+    },
+    {
+      "category": "Indica",
+      "symbol": "B84",
+      "name": "Black '84"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Drf",
+      "name": "Dr. Funk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bba",
+      "name": "Black Bubba"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Df",
+      "name": "Devil Fruit"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hd",
+      "name": "Hawaiian Delight"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ses",
+      "name": "Sensi Skunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gra",
+      "name": "Grand Doggy Purps"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ba",
+      "name": "Blue Alien"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Emd",
+      "name": "Emerald OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Srb",
+      "name": "StarBud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Inb",
+      "name": "Incredible Bulk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Era",
+      "name": "Eran Almog"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ej",
+      "name": "El Jeffe"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ppo",
+      "name": "Papa's OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sto",
+      "name": "Satellite OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cpk",
+      "name": "Copper Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "420",
+      "name": "XXX 420"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nk",
+      "name": "Neptune Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Lg",
+      "name": "Lions Gate"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pck",
+      "name": "Pakistani Chitral Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dpd",
+      "name": "Double Purple Doja"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sum",
+      "name": "Sugar Mama"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cbs",
+      "name": "CBD Shark"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mmk",
+      "name": "Money Maker"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dvm",
+      "name": "Denver Maple"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Baf",
+      "name": "Blue Afghani"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gpk",
+      "name": "Godfather Purple Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Acb",
+      "name": "Afghani CBD"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Chs",
+      "name": "Chem Scout"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kah",
+      "name": "Kahuna"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bmo",
+      "name": "Blue Monster"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bki",
+      "name": "B.B. King"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mat",
+      "name": "Matsu"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dm",
+      "name": "Domino"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Granddaddy Purple"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ola",
+      "name": "OG LA Affie"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Whw",
+      "name": "Whitewalker OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Iwd",
+      "name": "Iced Widow"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ogb",
+      "name": "Ogre Berry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pl",
+      "name": "Punky Lion"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dbg",
+      "name": "Double OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sgf",
+      "name": "Sweet Deep Grapefruit"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gdz",
+      "name": "Godzilla"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pxx",
+      "name": "Paris XXX"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Fcj",
+      "name": "Fruity Chronic Juice"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bue",
+      "name": "Blue Blood"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bts",
+      "name": "Butterscotch"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bm2",
+      "name": "Beastmode 2.0"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wdr",
+      "name": "White Dragon"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sis",
+      "name": "The Sister"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mag",
+      "name": "Madagascar"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rbd",
+      "name": "Rockbud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rey",
+      "name": "Red Eye OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gar",
+      "name": "Garlic Bud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Su",
+      "name": "Super Bud"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Arg",
+      "name": "Argyle"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Brx",
+      "name": "Brand X"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sxx",
+      "name": "Sexxpot"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mv",
+      "name": "Motavation"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Frt",
+      "name": "Fruitylicious"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bwz",
+      "name": "Blueberry Waltz"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rus",
+      "name": "Russian Assassin"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ask",
+      "name": "Afghan Sour Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pro",
+      "name": "Proper BHO Shatter"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nex",
+      "name": "Nexus OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Mango OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ssr",
+      "name": "Sweet and Sour Widow"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gt",
+      "name": "God’s Treat"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sp1",
+      "name": "Special Kush #1"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Tys",
+      "name": "Tyson"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Wkr",
+      "name": "White Kryptonite"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ort",
+      "name": "Ortega"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Evr",
+      "name": "Everlast"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ath",
+      "name": "Athabasca"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kdl",
+      "name": "Kushadelic"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Amr",
+      "name": "Americano"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gsr",
+      "name": "G Stik \"RED\""
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ppt",
+      "name": "Purple Tonic"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cap",
+      "name": "Capers"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Hao",
+      "name": "Haoma"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bed",
+      "name": "Bedica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Tbk",
+      "name": "Throwback Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cbb",
+      "name": "Colorado Bubba"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bur",
+      "name": "Burkle"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mil",
+      "name": "Milky Way"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Afgoo"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ank",
+      "name": "Ancient Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mos",
+      "name": "Mossimo OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sbr",
+      "name": "Star Berry Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cgr",
+      "name": "California Grapefruit"
+    },
+    {
+      "category": "Indica",
+      "symbol": "N44",
+      "name": "Negra 44"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Northern Lights"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Mdz",
+      "name": "Madzilla"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Bubba Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Blackberry Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sin",
+      "name": "Sin City Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kdh",
+      "name": "Kandahar"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bkr",
+      "name": "Blue Kripple"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Tbp",
+      "name": "Taliban Poison"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Diablo OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang King's Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ast",
+      "name": "Alpine Star"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ahi",
+      "name": "Afghan Hawaiian"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nch",
+      "name": "Nice Cherry"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Chy",
+      "name": "China Yunnan"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Dee",
+      "name": "Deep Chunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Snm",
+      "name": "Snow Monster"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Black Domina"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Lkg",
+      "name": "Lashkar Gah"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Super Skunk"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bno",
+      "name": "Berry Noir"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nam",
+      "name": "North American Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Mercury OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gdx",
+      "name": "Golden XTRX CO2 Dabbables"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sla",
+      "name": "South Central LA"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Perfecto Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Smk",
+      "name": "Star Master Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Ogre"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pvc",
+      "name": "PVC OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "J15",
+      "name": "JT15"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Sai",
+      "name": "South Asian Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gdx",
+      "name": "Golden XTRX Oil Vaporizer Cartridge"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Blackberry Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kch",
+      "name": "Kali China"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Diamond OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Nov",
+      "name": "Nova"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Cherry Kola"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gdx",
+      "name": "Golden XTRX Personal Vaporizer Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gma",
+      "name": "Gog & Magog"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Csu",
+      "name": "CannaSutra"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gsv",
+      "name": "G Stik \"Violeta\""
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang LA Confidential"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Peh",
+      "name": "Petrolia Headstash"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Purple Nepal"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Triple Berry Goo"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Humboldt Reserve"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Jupiter OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ind",
+      "name": "Indica Strains"
+    },
+    {
+      "category": "Indica",
+      "symbol": "J15",
+      "name": "JT15"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Edd",
+      "name": "OG Eddy Lepp"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Afghooey"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Mr. Nice"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang MK Ultra"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Gpy",
+      "name": "Green Python"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Neptune OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Shark Shock"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Seattle Blue"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bks",
+      "name": "Bakerstreet"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Master Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Rus",
+      "name": "Russian Assassin"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Sensi Star"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Yoda OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Eeu",
+      "name": "Eastern European"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Romulan"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Cda",
+      "name": "Cascadia Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Purple Erkle"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Kok",
+      "name": "Kobain Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Platinum Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Darth Vader OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Swi",
+      "name": "Swiss Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Ind",
+      "name": "Indica"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Master Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang True OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Platinum OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Lavender Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Afghan Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Pro",
+      "name": "Proper PHO Shatter"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Uv",
+      "name": "UltraViolet OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Purple Kush"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang Grape Ape"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Bha",
+      "name": "Bhang 007 OG"
+    },
+    {
+      "category": "Indica",
+      "symbol": "Lpm",
+      "name": "Lime Purple Mist"
+    }
+  ],
+  "sativa": [
+    {
+      "category": "Sativa",
+      "symbol": "Sd",
+      "name": "Sour Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gc",
+      "name": "Green Crack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jh",
+      "name": "Jack Herer"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Atf",
+      "name": "Alaskan Thunder Fuck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Dp",
+      "name": "Durban Poison"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lh",
+      "name": "Lemon Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ss",
+      "name": "Super Silver Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sc",
+      "name": "Strawberry Cough"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Slh",
+      "name": "Super Lemon Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mw",
+      "name": "Maui Waui"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Chc",
+      "name": "Chocolope"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Amh",
+      "name": "Amnesia Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ph",
+      "name": "Purple Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Har",
+      "name": "Harlequin"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lb",
+      "name": "Lamb's Bread"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Slv",
+      "name": "Silver Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Iss",
+      "name": "Island Sweet Skunk"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cnx",
+      "name": "Cinex"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cas",
+      "name": "Casey Jones"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Grf",
+      "name": "Grapefruit"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ssd",
+      "name": "Super Sour Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jtr",
+      "name": "Jack the Ripper"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Am",
+      "name": "Amnesia"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mdk",
+      "name": "Moby Dick"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "H",
+      "name": "Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Aca",
+      "name": "Acapulco Gold"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gth",
+      "name": "Ghost Train Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gws",
+      "name": "Great White Shark"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cat",
+      "name": "Cat Piss"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Km",
+      "name": "Kali Mist"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cld",
+      "name": "Candyland"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pwp",
+      "name": "Power Plant"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Vor",
+      "name": "Vortex"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Tg",
+      "name": "Tangie"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cok",
+      "name": "Chocolate Kush"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cah",
+      "name": "Cannalope Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sns",
+      "name": "Sage N Sour"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Caj",
+      "name": "Candy Jack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Tri",
+      "name": "Trinity"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Hs",
+      "name": "Hawaiian Snow"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jes",
+      "name": "Jesus OG"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Eas",
+      "name": "East Coast Sour Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Str",
+      "name": "Strawberry"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mtf",
+      "name": "Matanuska Thunder Fuck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gca",
+      "name": "Green Candy"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Haw",
+      "name": "Hawaiian"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mau",
+      "name": "Maui"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pam",
+      "name": "Panama Red"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Arj",
+      "name": "Arjan's Strawberry Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lgb",
+      "name": "Laughing Buddha"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pan",
+      "name": "Pandora's Box"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Wln",
+      "name": "Willie Nelson"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lmg",
+      "name": "Lemon G"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Eup",
+      "name": "Euphoria"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ddg",
+      "name": "Dutch Dragon"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Rc",
+      "name": "Red Congolese"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Suj",
+      "name": "Super Jack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pnt",
+      "name": "Pineapple Thai"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Hem",
+      "name": "Hempstar"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cj",
+      "name": "Cracker Jack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Hhz",
+      "name": "Hawaiian Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gce",
+      "name": "Green Crack Extreme"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sjk",
+      "name": "Sour Jack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mgh",
+      "name": "Mango Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Nhz",
+      "name": "Neville's Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Tha",
+      "name": "Thai"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Shp",
+      "name": "Shipwreck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Dut",
+      "name": "Dutch Hawaiian"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Aw",
+      "name": "Allen Wrench"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "B11",
+      "name": "Bay 11"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jkc",
+      "name": "Jack's Cleaner"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cw",
+      "name": "Charlotte's Web"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Utw",
+      "name": "Ultimate Trainwreck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sgc",
+      "name": "Super Green Crack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Tim",
+      "name": "Timewreck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sw",
+      "name": "Sweet Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mal",
+      "name": "Malawi"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lj",
+      "name": "Lemon Jack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bkd",
+      "name": "Black Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lth",
+      "name": "Lemon Thai"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Alw",
+      "name": "Alice in Wonderland"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gbl",
+      "name": "Green Goblin"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jp",
+      "name": "Jamaican Pearl"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lv1",
+      "name": "Love Potion #1"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Aic",
+      "name": "Alaskan Ice"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Vdo",
+      "name": "Voodoo"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sma",
+      "name": "Santa Maria"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Stg",
+      "name": "Sour Tangie"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Swc",
+      "name": "Sweet Cheese"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Fh",
+      "name": "Fire Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bhz",
+      "name": "Brainstorm Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sf",
+      "name": "Sour Flower"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Wet",
+      "name": "Wet Dream"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Drg",
+      "name": "Dr. Grinspoon"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Crc",
+      "name": "Crystal Coma"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ejk",
+      "name": "Emerald Jack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Tpd",
+      "name": "Triple Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Tut",
+      "name": "Tutankhamon"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jsk",
+      "name": "Jack Skellington"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mxs",
+      "name": "Mexican Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Dd",
+      "name": "Double Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Blu",
+      "name": "Blue Satellite"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Drt",
+      "name": "Dirty Girl"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Swz",
+      "name": "Swazi Gold"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cg",
+      "name": "Colombian Gold"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cht",
+      "name": "Chocolate Thai"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gnz",
+      "name": "Green Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Has",
+      "name": "Hawaiian Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Shm",
+      "name": "Shaman"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jdr",
+      "name": "Jamaican Dream"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Out",
+      "name": "Outer Space"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Asi",
+      "name": "Asian Fantasy"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "J27",
+      "name": "J-27"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Vog",
+      "name": "Venice OG"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lst",
+      "name": "Lemon Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Yg",
+      "name": "Y Griega"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Blh",
+      "name": "Blackberry Lime Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Kab",
+      "name": "Kaboom"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Spd",
+      "name": "Super Snow Dog"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Kf",
+      "name": "Killing Fields"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Shz",
+      "name": "Sour Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mex",
+      "name": "Mexican"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mak",
+      "name": "Mako Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sea",
+      "name": "Seattle Cough"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Quk",
+      "name": "Quantum Kush"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Rhz",
+      "name": "Red Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Srw",
+      "name": "Sour Willie"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Spj",
+      "name": "Space Jill"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pnh",
+      "name": "Pineapple Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bay",
+      "name": "Bay Dream"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pnj",
+      "name": "Pineapple Jack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mhz",
+      "name": "Moonshine Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Kmj",
+      "name": "Kilimanjaro"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Zsg",
+      "name": "Zeta Sage"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ala",
+      "name": "Alaska"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Tlp",
+      "name": "Tangilope"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Slk",
+      "name": "Silver Kush"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mnd",
+      "name": "Mango Dream"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Rbk",
+      "name": "Root Beer Kush"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Shr",
+      "name": "Schrom"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jam",
+      "name": "Jamaican"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sbu",
+      "name": "Strawberry Blue"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Wnk",
+      "name": "Willy Wonka"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mik",
+      "name": "Micky Kush"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gal",
+      "name": "Galactic Jack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Abl",
+      "name": "Alpha Blue"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ocd",
+      "name": "OCD"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Alo",
+      "name": "Aloha"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Whn",
+      "name": "White Nightmare"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Kbr",
+      "name": "King's Bread"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jwh",
+      "name": "Jacky White"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sm",
+      "name": "Sour Maui"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ach",
+      "name": "Aceh"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Qle",
+      "name": "Qleaner"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Th",
+      "name": "Thai Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Rbc",
+      "name": "Raspberry Cough"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Spl",
+      "name": "Sugar Plum"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Njk",
+      "name": "Nurse Jackie"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Np",
+      "name": "Nepalese"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gln",
+      "name": "Green Lantern"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Buh",
+      "name": "Buddha Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Slp",
+      "name": "Sourlope"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Vbh",
+      "name": "Very Berry Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Rhs",
+      "name": "Red Headed Stranger"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bmc",
+      "name": "Blue Magic"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ss",
+      "name": "Strawberry Satori"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "C13",
+      "name": "C13 Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Spo",
+      "name": "Sour Poison"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Leb",
+      "name": "Lemon Bubble"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Frb",
+      "name": "Frostbite"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Dot",
+      "name": "Blue Dot"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Soc",
+      "name": "Sonoma Coma"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Had",
+      "name": "Hawaiian Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sbl",
+      "name": "Stella Blue"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Afr",
+      "name": "African"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Twi",
+      "name": "Twista"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sub",
+      "name": "Sublime"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bbh",
+      "name": "Blackberry Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lmh",
+      "name": "Lime Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ryh",
+      "name": "Royal Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Soa",
+      "name": "Sour Amnesia"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Hdr",
+      "name": "Hawaiian Dream"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sps",
+      "name": "Sour Pebbles"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Spn",
+      "name": "Space Needle"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ssn",
+      "name": "Sunshine"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jwr",
+      "name": "Jack Wreck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ag",
+      "name": "Arabian Gold"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cf",
+      "name": "Catfish"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Vip",
+      "name": "Viper"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Swg",
+      "name": "Swiss Gold"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Brk",
+      "name": "Berkeley"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Wth",
+      "name": "White Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jho",
+      "name": "Jock Horror"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Scp",
+      "name": "Super Cat Piss"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bbu",
+      "name": "Blue Bayou"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pnp",
+      "name": "Pineapple Purps"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mf",
+      "name": "Mother’s Finest"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jad",
+      "name": "Jack Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jl",
+      "name": "Jamaican Lion"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Hch",
+      "name": "Hippie Chicken"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bsh",
+      "name": "Big Sur Holy Bud"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sin",
+      "name": "South Indian"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Asb",
+      "name": "Astroboy"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cml",
+      "name": "Caramelo"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cos",
+      "name": "Cosmic Collision"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Phz",
+      "name": "Poison Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Drz",
+      "name": "Drizella"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Stl",
+      "name": "Strawberry Lemonade"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Dja",
+      "name": "Django"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ren",
+      "name": "Rene"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Wbf",
+      "name": "White Buffalo"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jlp",
+      "name": "Jackalope"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Hw",
+      "name": "Haze Wreck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sch",
+      "name": "Sour Chocolate"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Thm",
+      "name": "Thor's Hammer"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sda",
+      "name": "Skunk Dawg"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Twc",
+      "name": "Twisted Citrus"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mdh",
+      "name": "MediHaze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pth",
+      "name": "Purple Thai"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sle",
+      "name": "SleeStack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Snl",
+      "name": "Supernatural"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cou",
+      "name": "The Cough"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sam",
+      "name": "South American"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sr6",
+      "name": "Serious 6"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Q3",
+      "name": "Q3"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "124",
+      "name": "1024"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gw",
+      "name": "Goldwing"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Nfo",
+      "name": "NightFire OG"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Dw",
+      "name": "Dance World"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Super Silver Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jen",
+      "name": "Jenni"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Woh",
+      "name": "Waipi'o Hapa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Buf",
+      "name": "Buffalo Bill"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Chf",
+      "name": "Chocolate Fondue"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Dva",
+      "name": "Doug's Varin"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Nw",
+      "name": "Nevil's Wreck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sni",
+      "name": "Sinai"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Mpe",
+      "name": "Middlefork x Pineapple Express"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Green Crack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gdx",
+      "name": "Golden XTRX Oil Vaporizer Cartridge"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cth",
+      "name": "Chocolate Thunder"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Hei",
+      "name": "Heisenberg Kush"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Nas",
+      "name": "North American Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Arjan's Strawberry Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Auh",
+      "name": "Arjan's Ultra Haze #1"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Leo",
+      "name": "Leonidas"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cmh",
+      "name": "CBD Mango Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cmb",
+      "name": "Cambodian"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sws",
+      "name": "Swiss Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Shl",
+      "name": "Shangri La OG"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Nyp",
+      "name": "NYPD"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Otl",
+      "name": "Outlaw"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pro",
+      "name": "Proper BHO Shatter"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Dsr",
+      "name": "Damn Sour"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Ssq",
+      "name": "Summertime Squeeze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Lemon Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Lamb's Bread"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Sour Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Jack Herer"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Colombian Gold"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sl",
+      "name": "Southern Lights"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Super Lemon Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Jt",
+      "name": "Johnny’s Tonic"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Green Crack"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Xa",
+      "name": "Xanadu"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Blackberry Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Epl",
+      "name": "Early Pearl"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gdx",
+      "name": "Golden XTRX CO2 Dabbables"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Chocolope"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Chiesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Durban Poison"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sls",
+      "name": "SleeSkunk"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Maui Waui"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gsa",
+      "name": "G Stik \"Amarillo\""
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Del",
+      "name": "DelaHaze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Super Silver Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Tangie"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Aloha"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Pineapple Thai"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Strawberry Cough"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cer",
+      "name": "Cerebro Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Panama Red"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gro",
+      "name": "G Stik \"Rosado\""
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sas",
+      "name": "South Asian Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sat",
+      "name": "Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sat",
+      "name": "Sativa Strains"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Perfecto Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Gdx",
+      "name": "Golden XTRX Personal Vaporizer Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Island Sweet Skunk"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Strawberry Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Casey Jones"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Hawaiian Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Sas",
+      "name": "South Asian Sativa"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Pro",
+      "name": "Proper PHO Shatter"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Purple Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Super Sour Diesel"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bey",
+      "name": "Birds Eye"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Kali Mist"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Cam",
+      "name": "Central American"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Hazewreck"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Harlequin"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Chocolate Thai"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Bha",
+      "name": "Bhang Purple Haze"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Raf",
+      "name": "Rafael"
+    },
+    {
+      "category": "Sativa",
+      "symbol": "Lan",
+      "name": "La Niña"
+    }
+  ],
+  "hybrid": [
+    {
+      "category": "Hybrid",
+      "symbol": "Bd",
+      "name": "Blue Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gsc",
+      "name": "Girl Scout Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ogk",
+      "name": "OG Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ww",
+      "name": "White Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ak",
+      "name": "AK-47"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tw",
+      "name": "Trainwreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hb",
+      "name": "Headband"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pex",
+      "name": "Pineapple Express"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cd",
+      "name": "Chemdawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Che",
+      "name": "Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cp",
+      "name": "Cherry Pie"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lk",
+      "name": "Lemon Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sko",
+      "name": "Skywalker OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bg",
+      "name": "Bubble Gum"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tok",
+      "name": "Tahoe OG Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Nyc",
+      "name": "NYC Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mgk",
+      "name": "Mango Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "100",
+      "name": "$100 OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "C99",
+      "name": "Cinderella 99"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ago",
+      "name": "Agent Orange"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bak",
+      "name": "Banana Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dt",
+      "name": "Dutch Treat"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gdg",
+      "name": "Golden Goat"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gg4",
+      "name": "Gorilla Glue #4"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Fog",
+      "name": "Fire OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cck",
+      "name": "Cotton Candy Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lsd",
+      "name": "LSD"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tnd",
+      "name": "Tangerine Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ls",
+      "name": "Lemon Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "X13",
+      "name": "XJ-13"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pak",
+      "name": "Pineapple Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cbl",
+      "name": "Chernobyl"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jil",
+      "name": "Jillybean"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pd",
+      "name": "Purple Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Whr",
+      "name": "White Russian"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pgs",
+      "name": "Platinum Girl Scout Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Juf",
+      "name": "Juicy Fruit"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bbr",
+      "name": "Blackberry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sno",
+      "name": "Snowcap"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sog",
+      "name": "Sour OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ali",
+      "name": "Alien OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ct",
+      "name": "Cannatonic"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Fp",
+      "name": "Fruity Pebbles"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "St",
+      "name": "Sweet Tooth"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sk",
+      "name": "Sour Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Log",
+      "name": "Larry OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pt",
+      "name": "Purple Trainwreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Flo",
+      "name": "Flo"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pin",
+      "name": "Pineapple"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bld",
+      "name": "Blue Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sk1",
+      "name": "Skunk No. 1"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bnr",
+      "name": "Bruce Banner"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "UK",
+      "name": "UK Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lem",
+      "name": "Lemon Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kan",
+      "name": "Kandy Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "J1",
+      "name": "J1"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sq",
+      "name": "Space Queen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wif",
+      "name": "White Fire OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tm",
+      "name": "Thin Mint Girl Scout Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hol",
+      "name": "Holy Grail Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ac",
+      "name": "Animal Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Per",
+      "name": "Permafrost"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Oc",
+      "name": "Orange Crush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dh",
+      "name": "Deadhead OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bw",
+      "name": "Blue Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jf",
+      "name": "Jack Frost"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sfv",
+      "name": "SFV OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Stk",
+      "name": "Strawberry Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ck",
+      "name": "Cherry Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gg",
+      "name": "Grape God"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sg",
+      "name": "SAGE"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pkk",
+      "name": "Pink Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "707",
+      "name": "707 Headband"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Red",
+      "name": "Red Dragon"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cd4",
+      "name": "Chemdawg 4"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bbe",
+      "name": "Big Buddha Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ice",
+      "name": "Ice"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kk",
+      "name": "Khalifa Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bbd",
+      "name": "Blueberry Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cal",
+      "name": "California Orange"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gok",
+      "name": "Ghost OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Leg",
+      "name": "Lemon OG Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Blw",
+      "name": "Black Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Psd",
+      "name": "Purple Sour Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mp",
+      "name": "Mendocino Purps"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dq",
+      "name": "Dream Queen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Swd",
+      "name": "Strawberry Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sbd",
+      "name": "Super Blue Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ppp",
+      "name": "Pure Power Plant"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jal",
+      "name": "Jack Flash"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bh",
+      "name": "Blueberry Headband"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bz",
+      "name": "Blueberry Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Twt",
+      "name": "The White"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Acd",
+      "name": "ACDC"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "3k",
+      "name": "3 Kings"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jg",
+      "name": "Jean Guy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bng",
+      "name": "Banana OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Orb",
+      "name": "Orange Bud"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bdr",
+      "name": "Blue Dragon"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Neb",
+      "name": "Nebula"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bmg",
+      "name": "Blue Magoo"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sun",
+      "name": "Sunset Sherbet"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pud",
+      "name": "Purple Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ptw",
+      "name": "Pineapple Trainwreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gq",
+      "name": "Green Queen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Drw",
+      "name": "Dr. Who"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cku",
+      "name": "Cali Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Snd",
+      "name": "Snoop's Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Blz",
+      "name": "Blue Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Grr",
+      "name": "Green Ribbon"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pch",
+      "name": "Pineapple Chunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gk",
+      "name": "Grapefruit Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "A48",
+      "name": "AK-48"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "13h",
+      "name": "G13 Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cmk",
+      "name": "Champagne Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Afw",
+      "name": "Afwreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Qrz",
+      "name": "Qrazy Train"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bcs",
+      "name": "Black Cherry Soda"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gd",
+      "name": "Green Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cak",
+      "name": "Cherry AK-47"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sgr",
+      "name": "Sour Grape"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bj",
+      "name": "Black Jack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bbl",
+      "name": "Bubbleberry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Chi",
+      "name": "Chiesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ld",
+      "name": "Lemon Drop"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Atn",
+      "name": "Atomic Northern Lights"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Snw",
+      "name": "Snow White"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ctk",
+      "name": "Cataract Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ddr",
+      "name": "Double Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gls",
+      "name": "Glass Slipper"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dqn",
+      "name": "Dairy Queen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bbc",
+      "name": "Blueberry Cheesecake"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Oh",
+      "name": "Orange Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bgo",
+      "name": "Blue Goo"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bmk",
+      "name": "Burmese Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Blr",
+      "name": "Blue Rhino"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gks",
+      "name": "Grape Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Thc",
+      "name": "THC Bomb"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Brc",
+      "name": "Blue Crack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cb",
+      "name": "Cherry Bomb"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "A13",
+      "name": "Apollo 13"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "O18",
+      "name": "OG #18"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lhz",
+      "name": "Liberty Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sgp",
+      "name": "Sour Grapes"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gp",
+      "name": "Golden Pineapple"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bio",
+      "name": "Bio-Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bhw",
+      "name": "Blue Hawaiian"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kq",
+      "name": "Killer Queen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Roy",
+      "name": "Royal Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Huc",
+      "name": "Huckleberry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sta",
+      "name": "Stardawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mh",
+      "name": "Mother’s Helper"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kik",
+      "name": "King Kong"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sa",
+      "name": "Sour Apple"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sdr",
+      "name": "Sour Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "My",
+      "name": "Master Yoda"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tnh",
+      "name": "Tangerine Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pa",
+      "name": "Purple Arrow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Law",
+      "name": "LA Woman"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ic",
+      "name": "Ice Cream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Exo",
+      "name": "Exodus Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Blg",
+      "name": "Blue OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ras",
+      "name": "Raskal OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mg",
+      "name": "Martian Mean Green"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mbo",
+      "name": "Mob Boss"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ogd",
+      "name": "OG Diesel Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Phc",
+      "name": "Phantom Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wbl",
+      "name": "Wonka's Bubblicious"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tng",
+      "name": "Tangerine"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sug",
+      "name": "Sugar Cookie"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Od",
+      "name": "Orange Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bb3",
+      "name": "Bruce Banner #3"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Btu",
+      "name": "Black Tuna"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cha",
+      "name": "Charlie Sheen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rnb",
+      "name": "Rainbow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cn",
+      "name": "Cannadential"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Chr",
+      "name": "Chronic"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cr+",
+      "name": "Critical Plus"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Grd",
+      "name": "Grapefruit Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sts",
+      "name": "Sour Tsunami"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Car",
+      "name": "Caramelicious"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "OGi",
+      "name": "OGiesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Klp",
+      "name": "Key Lime Pie"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pnd",
+      "name": "Pineapple Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Scr",
+      "name": "Sour Cream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "A11",
+      "name": "Apollo 11"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Atr",
+      "name": "A-Train"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jet",
+      "name": "Jet Fuel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sou",
+      "name": "Sour Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Swe",
+      "name": "Sweet Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Crj",
+      "name": "Critical Jack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ven",
+      "name": "Venom OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ccr",
+      "name": "Cookies and Cream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pp",
+      "name": "Purple Princess"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Plw",
+      "name": "Platinum Wreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mfk",
+      "name": "Middlefork"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ek",
+      "name": "Ewok"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Spb",
+      "name": "Space Bomb"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Don",
+      "name": "Donna OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hel",
+      "name": "Hells Angel OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dwk",
+      "name": "Dogwalker OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rec",
+      "name": "Recon"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ftc",
+      "name": "Fortune Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "P47",
+      "name": "Purple AK-47"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hts",
+      "name": "Harle-Tsu"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Med",
+      "name": "Medicine Man"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bdh",
+      "name": "Black Dahlia"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hdf",
+      "name": "Heavy Duty Fruity"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sln",
+      "name": "Shoreline"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Amb",
+      "name": "Ambrosia"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sil",
+      "name": "Silver Surfer"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pvd",
+      "name": "Purple Voodoo"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ogs",
+      "name": "OG Shark"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bcb",
+      "name": "BC Big Bud"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hwp",
+      "name": "Hawaiian Punch"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bna",
+      "name": "Banana Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Goj",
+      "name": "Goji OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pgo",
+      "name": "Purple Gorilla"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Psk",
+      "name": "Purple Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wfa",
+      "name": "White Fire Alien OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "C4",
+      "name": "C4"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bch",
+      "name": "Blue Champagne"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Arc",
+      "name": "Alien Rock Candy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cit",
+      "name": "Citrus Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wz",
+      "name": "White Zombie"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bvm",
+      "name": "Blue Venom"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Stb",
+      "name": "Strawberry Banana"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hkg",
+      "name": "Hong Kong"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cmr",
+      "name": "Cookie Monster"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cnk",
+      "name": "Cannalope Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jhz",
+      "name": "Jack Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sal",
+      "name": "Sour Alien"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Byy",
+      "name": "Blueberry Yum Yum"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wwo",
+      "name": "Wonder Woman"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hc",
+      "name": "Head Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bco",
+      "name": "Blue Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lud",
+      "name": "Lucid Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sog",
+      "name": "Sour Lemon OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gch",
+      "name": "Game Changer"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bt",
+      "name": "Blue Trainwreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jah",
+      "name": "Jah Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Shb",
+      "name": "Sharksbreath"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cvk",
+      "name": "Chem Valley Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Stm",
+      "name": "Strawberry Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "C91",
+      "name": "Chemdawg 91"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Chw",
+      "name": "Cheesewreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Svp",
+      "name": "Silver Pearl"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hig",
+      "name": "Himalayan Gold"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Blc",
+      "name": "Blockhead"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sri",
+      "name": "Satori"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tth",
+      "name": "The Truth"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tfl",
+      "name": "The Flav"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rb",
+      "name": "Ripped Bubba"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mbk",
+      "name": "Marionberry Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hip",
+      "name": "Hippie Crippler"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pao",
+      "name": "Purple Alien OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gm",
+      "name": "Green Monster"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pcs",
+      "name": "Purple Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gcr",
+      "name": "Grape Crush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mst",
+      "name": "Montana Silvertip"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bub",
+      "name": "Bubblegun"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "War",
+      "name": "Warlock"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bku",
+      "name": "Blue Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bmr",
+      "name": "Blue Moon Rocks"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ov",
+      "name": "Orange Velvet"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ghz",
+      "name": "Grapefruit Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dbr",
+      "name": "Dragon's Breath"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jw",
+      "name": "Jack Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wd",
+      "name": "White Dawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ve",
+      "name": "Verde Electric"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ttf",
+      "name": "Tutti Frutti"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ivy",
+      "name": "Blue Ivy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cc",
+      "name": "Connie Chung"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Blf",
+      "name": "Blue Frost"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ed",
+      "name": "Ed Rosenthal Super Bud"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Oco",
+      "name": "Orange Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ppr",
+      "name": "Pink Panther"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ods",
+      "name": "Orange Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gnh",
+      "name": "Grand Hustle"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Eln",
+      "name": "El Niño"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ow",
+      "name": "OG Wreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lwr",
+      "name": "Lemon Wreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "303",
+      "name": "303 OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gh",
+      "name": "Green Hornet"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kot",
+      "name": "Kosher Tangie"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Skh",
+      "name": "Skunk Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hdb",
+      "name": "Headbanger"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Eog",
+      "name": "Earth OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pps",
+      "name": "Pineapple Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hf",
+      "name": "Hawaiian Fire"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pi",
+      "name": "Purple Ice"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gvc",
+      "name": "Guava Chem"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Crh",
+      "name": "Critical Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rdl",
+      "name": "Red Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Scs",
+      "name": "Scooby Snacks"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ire",
+      "name": "Irene OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Shs",
+      "name": "Shiatsu Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tv",
+      "name": "The Void"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ad",
+      "name": "Afghan Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ber",
+      "name": "Berry OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Iq",
+      "name": "Ice Queen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ms",
+      "name": "Morning Star"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Arm",
+      "name": "Armageddon"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cbi",
+      "name": "Critical Bilbo"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Stn",
+      "name": "Saturn OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bkz",
+      "name": "Black Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gvk",
+      "name": "Guava Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cdr",
+      "name": "Cinderella's Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bnm",
+      "name": "Blue Nightmare"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hws",
+      "name": "Hawaiian Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rg",
+      "name": "Romulan Grapefruit"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lif",
+      "name": "Lifesaver"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Skd",
+      "name": "Skunky Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lc",
+      "name": "Lucky Charms"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ogc",
+      "name": "OG Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rbo",
+      "name": "Rug Burn OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Alb",
+      "name": "Alohaberry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wq",
+      "name": "White Queen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Whl",
+      "name": "White Lightning"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bbt",
+      "name": "Black Betty"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Crk",
+      "name": "Cold Creek Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bij",
+      "name": "Bio-Jesus"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bgm",
+      "name": "Boggle Gum"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bir",
+      "name": "Birthday Cake Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wpa",
+      "name": "Wappa"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sus",
+      "name": "Sugar Shack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sco",
+      "name": "Scott's OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "P91",
+      "name": "P-91"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kus",
+      "name": "Kushage"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bcr",
+      "name": "BC Roadkill"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mds",
+      "name": "Medusa"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cag",
+      "name": "Cali Gold"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "3d",
+      "name": "The Third Dimension"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hwd",
+      "name": "Hollywood OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hm",
+      "name": "Humboldt"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Fbk",
+      "name": "Flowerbomb Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ogp",
+      "name": "OG Poison"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ggd",
+      "name": "Green Goddess"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cts",
+      "name": "Canna-Tsu"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ahz",
+      "name": "Afghan Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Alp",
+      "name": "Alpha OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Nsk",
+      "name": "Northern Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "We",
+      "name": "White Elephant"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mid",
+      "name": "Midnight"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Whd",
+      "name": "White Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Crb",
+      "name": "Crimea Blue"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lvj",
+      "name": "Lavender Jones"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Chd",
+      "name": "Cherry Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mbd",
+      "name": "Medibud"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jul",
+      "name": "Julius Caesar"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ggc",
+      "name": "God's Green Crack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Whz",
+      "name": "Wonder Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jk",
+      "name": "Jack Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bor",
+      "name": "Bordello"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gru",
+      "name": "The Grunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bel",
+      "name": "Belladonna"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kim",
+      "name": "Kimbo Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pds",
+      "name": "Pineapple Dog Shit"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lhz",
+      "name": "Lavender Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tc",
+      "name": "Tropicali"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "K2",
+      "name": "K2"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bbo",
+      "name": "Blue Boy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tko",
+      "name": "Tokyo OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Blv",
+      "name": "Black Velvet"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Frs",
+      "name": "Fruit Spirit"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lam",
+      "name": "Lambo OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Blo",
+      "name": "Blowfish"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Drs",
+      "name": "Dream Star"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wtg",
+      "name": "White Gold"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Oj",
+      "name": "Orange Juice"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kon",
+      "name": "Kong"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Abw",
+      "name": "Albert Walker"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hz",
+      "name": "Hashplant Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ame",
+      "name": "Amethyst Bud"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sp",
+      "name": "Sour Power"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sao",
+      "name": "Soul Assassin OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dha",
+      "name": "Dutch Treat Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wla",
+      "name": "White Lavender"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bhs",
+      "name": "Blue Hash"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bsc",
+      "name": "BSC"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Trt",
+      "name": "Tropical Tang"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Os",
+      "name": "Orange Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pcr",
+      "name": "Purple Crack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lmb",
+      "name": "Lemonberry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tt",
+      "name": "Thai-Tanic"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Php",
+      "name": "Purple Hashplant"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lak",
+      "name": "LA Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Snv",
+      "name": "Supernova"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hmt",
+      "name": "Haoma Mist"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Omd",
+      "name": "Omega Dawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Slo",
+      "name": "Super Lemon OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Afh",
+      "name": "Afghanica"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rrf",
+      "name": "Russian Rocket Fuel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Elv",
+      "name": "Elvis"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lgs",
+      "name": "Lime Green Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "S76",
+      "name": "Spirit of '76"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Svb",
+      "name": "Silver Bubble"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cwh",
+      "name": "Cindy White"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ldr",
+      "name": "Loud Dream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sss",
+      "name": "Super Sour Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wro",
+      "name": "White Romulan"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Guc",
+      "name": "Gucci OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Csc",
+      "name": "Cheese Candy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ody",
+      "name": "Odyssey"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lod",
+      "name": "Lodi Dodi"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gmx",
+      "name": "Glad Max"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Adb",
+      "name": "A-Dub"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bwk",
+      "name": "Blue Wreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dch",
+      "name": "Durban Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mgm",
+      "name": "Melon Gum"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cho",
+      "name": "Chong Star"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bsw",
+      "name": "Blissful Wizard"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cch",
+      "name": "Critical Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Fun",
+      "name": "Funfetti"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cs",
+      "name": "Carl Sagan"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jlt",
+      "name": "Juliet"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mbg",
+      "name": "Maui Bubble Gift"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Spk",
+      "name": "Special K"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Thd",
+      "name": "Think Different"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ez",
+      "name": "Erez"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bug",
+      "name": "Bugatti OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Qg",
+      "name": "Quebec Gold"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Brb",
+      "name": "Berry Bomb"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rcb",
+      "name": "Red Cherry Berry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ord",
+      "name": "Organic Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "J47",
+      "name": "Jack 47"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dst",
+      "name": "Dieseltonic"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Zo",
+      "name": "Zeus OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mad",
+      "name": "Mad Dawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wur",
+      "name": "White Urkle"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ddf",
+      "name": "Diesel Duff"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lvp",
+      "name": "LVPK"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Src",
+      "name": "Sour Candy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cca",
+      "name": "Caramel Candy Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rmh",
+      "name": "Rocky Mountain High"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Crs",
+      "name": "Cherry Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pj",
+      "name": "Purple Jack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mt",
+      "name": "Mango Tango"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kur",
+      "name": "Kurple Fantasy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bsm",
+      "name": "Beastmode OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ppl",
+      "name": "Purple Paralysis"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Atm",
+      "name": "Atmosphere"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Trd",
+      "name": "Trident"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Boy",
+      "name": "Boysenberry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cch",
+      "name": "Colorado Chem"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Fd",
+      "name": "Frisian Dew"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bls",
+      "name": "Blues"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dgw",
+      "name": "Dawg's Waltz"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Low",
+      "name": "Lowryder"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Td",
+      "name": "Tres Dawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Psg",
+      "name": "Purple Sage"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dqu",
+      "name": "Dutch Queen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Whc",
+      "name": "White Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ear",
+      "name": "Earthquake"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lco",
+      "name": "Lost Coast OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ash",
+      "name": "Ash"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sst",
+      "name": "Superstar"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dop",
+      "name": "Dopium"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Swb",
+      "name": "Swiss Bliss"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hyd",
+      "name": "Crazy Miss Hyde"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Avd",
+      "name": "Avi-Dekel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mop",
+      "name": "Monkey Paw"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ymy",
+      "name": "Yummy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Spc",
+      "name": "Sugar Punch"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hal",
+      "name": "Haole"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ppz",
+      "name": "Pink Pez"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Zen",
+      "name": "Zen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gi1",
+      "name": "GI001"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Orp",
+      "name": "Oregon Pineapple"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jj",
+      "name": "Juicy Jack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lad",
+      "name": "Lemon Alien Dawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "N47",
+      "name": "NY-47"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Stf",
+      "name": "Starfighter"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ble",
+      "name": "Blueberry Essence"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sol",
+      "name": "Soul Shine"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pm",
+      "name": "Pink Mango"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ms",
+      "name": "Master Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rdw",
+      "name": "Royal Dwarf"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Prh",
+      "name": "Purple Rhino"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rin",
+      "name": "Ringo's Gift"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cab",
+      "name": "Cabbage Patch"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Vd",
+      "name": "Violet Delight"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wlo",
+      "name": "White Lotus"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ssw",
+      "name": "Super Sour Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "App",
+      "name": "Appalachia"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sap",
+      "name": "Sapphire Star"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wkg",
+      "name": "Wreckage"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wsi",
+      "name": "White Siberian"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dhl",
+      "name": "Dancehall"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Trf",
+      "name": "Trifecta"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cas",
+      "name": "California Sour"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dn",
+      "name": "Duke Nukem"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Htf",
+      "name": "Hawaiian Thunder Fuck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Je",
+      "name": "Jesus"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Usj",
+      "name": "Ultra Sonja"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ava",
+      "name": "Avalon"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "C47",
+      "name": "Critical 47"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bv",
+      "name": "Blue Velvet"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wel",
+      "name": "Wellness OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "501",
+      "name": "501st OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cpc",
+      "name": "Cotton Purple Chem"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sj",
+      "name": "Sour Jilly"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Old",
+      "name": "Old School OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gdk",
+      "name": "Green Door Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "K1",
+      "name": "K1"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sur",
+      "name": "Sour Urkle"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Crw",
+      "name": "Critical Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Oto",
+      "name": "One to One"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jhx",
+      "name": "Jimi Hendrix"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ost",
+      "name": "OG Strawberry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sec",
+      "name": "Secret Recipe"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hrm",
+      "name": "Harmony"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Yd",
+      "name": "Yogi Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sim",
+      "name": "Sierra Mist"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bpr",
+      "name": "Blue Persuasion"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Thl",
+      "name": "Thai Lights"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wwk",
+      "name": "White Walker Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Alr",
+      "name": "Alien Reunion"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hbn",
+      "name": "Honey Bananas"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Spg",
+      "name": "Superglue"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tmb",
+      "name": "Tembo Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Atg",
+      "name": "Atomic Goat"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "One",
+      "name": "The One"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rm",
+      "name": "Rene Mist"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cdp",
+      "name": "Cherry Durban Poison"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Stw",
+      "name": "Stevie Wonder"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Or",
+      "name": "Or"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ghb",
+      "name": "Ghost Bubba"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hro",
+      "name": "Hell Raiser OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Liq",
+      "name": "Liquid Gold CBD Vape Oil"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rpg",
+      "name": "Romping Goddess"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sck",
+      "name": "Sour Chunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Otb",
+      "name": "Orange Turbo"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lbg",
+      "name": "Lamborghini"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dlo",
+      "name": "Dream Lotus"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ska",
+      "name": "Skywalker Alien"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Abd",
+      "name": "Aberdeen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hly",
+      "name": "Holy Ghost"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tah",
+      "name": "Tahoe Alien"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Chl",
+      "name": "Cherry Limeade"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bsc",
+      "name": "Boy Scout Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mjp",
+      "name": "Mega Jackpot"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "L74",
+      "name": "Ladyburn 1974"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kva",
+      "name": "Kalashnikova"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mpc",
+      "name": "Maui Pineapple Chunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dec",
+      "name": "Deep Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gel",
+      "name": "Gelato"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ctx",
+      "name": "Citrix"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kh",
+      "name": "Khola"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rcd",
+      "name": "Royal Chemdawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pdp",
+      "name": "Predator Pink"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gem",
+      "name": "Gemstone"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jd",
+      "name": "Jane Doe"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gdx",
+      "name": "Golden XTRX Oil Vaporizer Cartridge"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lp",
+      "name": "Lethal Purple"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Swp",
+      "name": "Sweet Pebbles"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hdt",
+      "name": "Head Trip"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kcl",
+      "name": "Kush Cleaner"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dsh",
+      "name": "Dog Shit"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Csk",
+      "name": "Critical Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kbl",
+      "name": "Kill Bill"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Csh",
+      "name": "Chem Crush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ken",
+      "name": "Ken's Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cl",
+      "name": "Crater Lake"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Amg",
+      "name": "Armagnac"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tmw",
+      "name": "Turbo Mind Warp"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Grz",
+      "name": "GRiZ Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mlf",
+      "name": "MILF"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wal",
+      "name": "Walrus Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pbd",
+      "name": "Puna Budder"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Boo",
+      "name": "Booger"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cwr",
+      "name": "ChemWreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mb",
+      "name": "Maui Berry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Eb7",
+      "name": "Ebola #7"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lap",
+      "name": "LAPD"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jas",
+      "name": "Jasmin"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mpo",
+      "name": "Manitoba Poison"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sds",
+      "name": "Sour Strawberry Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kai",
+      "name": "Kaia Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hzh",
+      "name": "Haze Heaven"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jnk",
+      "name": "Jenny Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tox",
+      "name": "Toxic Punch"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Laj",
+      "name": "LA Jack"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dmr",
+      "name": "Dreamer’s Glass"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Psc",
+      "name": "Pearl Scout Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "13w",
+      "name": "G13 Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bro",
+      "name": "Broke Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Idp",
+      "name": "Industrial Plant"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Csd",
+      "name": "Chemdawg Sour Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mlc",
+      "name": "Marley's Collie"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Vcd",
+      "name": "VCDC"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Xfi",
+      "name": "X-Files"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Pink Lemonade"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rng",
+      "name": "OG Ringo"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Girl Scout Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Prc",
+      "name": "Professor Chaos"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rep",
+      "name": "Red Poison"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mlm",
+      "name": "Millennium"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Purple Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bst",
+      "name": "Blueberry Silvertip"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hwc",
+      "name": "Hawaiian Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bid",
+      "name": "Biddy Early"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Msu",
+      "name": "Ms. Universe"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bda",
+      "name": "Bandana"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pro",
+      "name": "Proper BHO Shatter"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lmf",
+      "name": "Lemon Fire"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Pineapple Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kdg",
+      "name": "Kali Dog"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Twv",
+      "name": "Thaidal Wave"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "K33",
+      "name": "KC 33"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dam",
+      "name": "Damnesia"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rr",
+      "name": "Richie Rich"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bbb",
+      "name": "BOG Bubble"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pep",
+      "name": "Peppermint Cookies"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sn",
+      "name": "Starry Night"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Drp",
+      "name": "Dream Police"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Apb",
+      "name": "Alpine Blue"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tak",
+      "name": "Tangelo Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wly",
+      "name": "Wally OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Olc",
+      "name": "Old Lyme Connecticut OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "B4",
+      "name": "B4"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sdi",
+      "name": "Snow Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ldd",
+      "name": "Lemon Daddy"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Smx",
+      "name": "Supermax OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dis",
+      "name": "Disney Blue"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Eug",
+      "name": "Eugene Cream"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "13d",
+      "name": "13 Dawgs"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ny",
+      "name": "NY Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Asa",
+      "name": "Alien Sour Apple"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lsc",
+      "name": "Loud Scout"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rud",
+      "name": "RudeBoi OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mmd",
+      "name": "Maui Mango Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mha",
+      "name": "Maui Haole"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bhn",
+      "name": "Blue Heron"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dbd",
+      "name": "Double Dutch"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bgt",
+      "name": "Bogart"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Swt",
+      "name": "Super Sweet"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Val",
+      "name": "Valentine X"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang White Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tig",
+      "name": "Tiger Woods"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pup",
+      "name": "Purple Pantera"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Tik",
+      "name": "Tickle Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lof",
+      "name": "Lake of Fire"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bso",
+      "name": "Big Sky OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kuc",
+      "name": "Kuchi"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kma",
+      "name": "Kushashima"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hus",
+      "name": "Hustler Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wws",
+      "name": "White Walrus"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Chb",
+      "name": "Chucky's Bride"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Orange Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lac",
+      "name": "LA Chocolat"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Perfecto Hybrid"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Es",
+      "name": "Earthshaker OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lma",
+      "name": "Lemon Marmalade"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Kra",
+      "name": "Krakatoa"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Slt",
+      "name": "Snow Lotus"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lmw",
+      "name": "Lemon Walker OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sby",
+      "name": "Sweet Berry"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Pineapple Express"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Crg",
+      "name": "Crystal Gayle"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Llb",
+      "name": "Lady Liberty"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Svo",
+      "name": "Sin Valley OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mm",
+      "name": "Mau-Mau"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ryl",
+      "name": "Royal Highness"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rdg",
+      "name": "Redding OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dre",
+      "name": "Dreadlock"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang AK-47"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Prm",
+      "name": "Purple Maui"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dor",
+      "name": "Dorit"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Eld",
+      "name": "Elderberry Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Xch",
+      "name": "X-tra Chz"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Do",
+      "name": "Do-Over OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Mrt",
+      "name": "Mr. Tusk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Skywalker OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ltd",
+      "name": "Little Devil"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sau",
+      "name": "The Sauce"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Trainwreck"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hvs",
+      "name": "Heaven Scent"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Avi",
+      "name": "Avi"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ogt",
+      "name": "OG Tonic"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang J-1"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Nb2",
+      "name": "Nebula II CBD"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cbk",
+      "name": "CBD Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "She",
+      "name": "The Sheriff"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Red Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Sme",
+      "name": "Smelliot"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Vgh",
+      "name": "Valley Ghash"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gat",
+      "name": "Gatekeeper OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Wdl",
+      "name": "Waldo"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bth",
+      "name": "Bubba Tom Hayes"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gdx",
+      "name": "Golden XTRX CO2 Dabbables"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pip",
+      "name": "Pineapple Purple Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Silver Haze"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Clb",
+      "name": "Cluster Bomb"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Cry",
+      "name": "Crypt"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang ChemDawg"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Headband"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Jack Frost"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Blue Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Lbn",
+      "name": "Lemon Bananas"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bma",
+      "name": "Brooklyn Mango"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bal",
+      "name": "Balmoral"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Holy Grail"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Skunk #1"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang SAGE"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Cherry Pie"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gsv",
+      "name": "G Stik \"Verde\""
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hyb",
+      "name": "Hybrid Strains"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang WidowMaker"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Jfk",
+      "name": "J's Famous Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang 707 Headband"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Bubble Gum"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Lemon Skunk"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Purple AK-47"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Hyb",
+      "name": "Hybrid"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gso",
+      "name": "G Stik \"Orange\""
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Byl",
+      "name": "Blueberry Lambsbread"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ena",
+      "name": "El-Na"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Dutch Treat"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Fire OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang White Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang XJ-13"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Cali Orange"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Rdd",
+      "name": "Redd Cross"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Alien OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Sour OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Charlie Sheen"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Trs",
+      "name": "Truth Serum"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Banana Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen Blue Diamond"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Dgl",
+      "name": "Donegal"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Cheese"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Juicy Fruit"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Earth OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Pro",
+      "name": "Proper PHO Shatter"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Day",
+      "name": "Day Tripper"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Lemon Diesel"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang OG Kush"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Liq",
+      "name": "Liquid Gold Vape Pen White Widow"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ohs",
+      "name": "Orange Hill Special"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Tahoe OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Ffa",
+      "name": "Flowers For Algernon"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Ghost OG"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Gdx",
+      "name": "Golden XTRX Personal Vaporizer Hybrid"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "M10",
+      "name": "Maramota #10"
+    },
+    {
+      "category": "Hybrid",
+      "symbol": "Bha",
+      "name": "Bhang Banana Kush"
+    }
+  ]
+}
