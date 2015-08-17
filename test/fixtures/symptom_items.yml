@@ -1,0 +1,20 @@
+# == Schema Information
+#
+# Table name: symptom_items
+#
+#  id         :integer          not null, primary key
+#  strain_id  :integer
+#  symptom_id :integer
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#
+
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  strain_id: 1
+  symptom_id: 1
+
+two:
+  strain_id: 1
+  symptom_id: 1

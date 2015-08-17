@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150817191433) do
+ActiveRecord::Schema.define(version: 20150817195004) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -23,6 +23,45 @@ ActiveRecord::Schema.define(version: 20150817191433) do
     t.string   "slug"
   end
 
+  create_table "condition_items", force: :cascade do |t|
+    t.integer  "strain_id"
+    t.integer  "condition_id"
+    t.datetime "created_at",   null: false
+    t.datetime "updated_at",   null: false
+  end
+
+  create_table "conditions", force: :cascade do |t|
+    t.string   "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "effect_items", force: :cascade do |t|
+    t.integer  "strain_id"
+    t.integer  "effect_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "effects", force: :cascade do |t|
+    t.string   "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "flavor_items", force: :cascade do |t|
+    t.integer  "strain_id"
+    t.integer  "flavor_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "flavors", force: :cascade do |t|
+    t.string   "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "strains", force: :cascade do |t|
     t.string   "slug"
     t.string   "name"
@@ -31,6 +70,19 @@ ActiveRecord::Schema.define(version: 20150817191433) do
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
     t.integer  "category_id"
+  end
+
+  create_table "symptom_items", force: :cascade do |t|
+    t.integer  "strain_id"
+    t.integer  "symptom_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "symptoms", force: :cascade do |t|
+    t.string   "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
