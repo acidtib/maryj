@@ -113,4 +113,8 @@ class API::V1::StrainController < ApplicationController
 
     render json: @response, status: status
   end
+
+  def search
+    
+  end
 end

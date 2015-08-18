@@ -18,7 +18,15 @@ Rails.application.routes.draw do
       
       scope 'strain' do
         get '/all' => 'strain#all'
+        get '/search' => 'strain#search'
+        
         get ':slug' => 'strain#show'
+        scope ':slug' do
+          get '/condition' => 'condition#condition'
+          get '/effect' => 'condition#effect'
+          get '/flavor' => 'condition#flavor'
+          get '/symptom' => 'condition#symptom'
+        end
       end
 
     end
