@@ -17,13 +17,13 @@ class PageController < ApplicationController
     ###############################################
 
     begin
-      #@result = HTTParty.post("http://data.leafly.com/strains", 
-      :body => { :Page => params['page'], 
-                 :Take => 50, 
-                 :Sort => 'alpha', 
-                 :LoadFacets => false
-               }.to_json,
-      :headers => { 'Content-Type' => 'application/json', 'APP_ID' => 'd56e5058', 'APP_KEY' => 'ae0d842b1f52e9150bb7e63313bdb72b' } )
+      # @result = HTTParty.post("http://data.leafly.com/strains", 
+      # :body => { :Page => params['page'], 
+      #            :Take => 50, 
+      #            :Sort => 'alpha', 
+      #            :LoadFacets => false
+      #          }.to_json,
+      # :headers => { 'Content-Type' => 'application/json', 'APP_ID' => 'd56e5058', 'APP_KEY' => 'ae0d842b1f52e9150bb7e63313bdb72b' } )
 
       @result = JSON.parse(@result.body)
 

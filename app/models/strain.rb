@@ -13,7 +13,7 @@
 #
 
 class Strain < ActiveRecord::Base
-  has_one :category
+  belongs_to :category
 
   has_many :condition_items
   has_many :conditions, :through => :condition_items

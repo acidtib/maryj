@@ -1,3 +1,5 @@
+require 'api_constraints'
+
 Rails.application.routes.draw do
 
 
@@ -8,6 +10,18 @@ Rails.application.routes.draw do
   root 'page#home'
 
   get 'dev' => 'page#dev'
+
+
+  namespace :api, :path => "", :constraints => {:subdomain => "api"}, :defaults => {:format => :json} do
+
+    scope module: :v1, constraints: ApiConstraints.new(version: 1, default: true) do
+      
+      scope 'strain' do
+        get ':slug' => 'strain#show'
+      end
+
+    end
+  end
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
