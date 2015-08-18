@@ -3,16 +3,17 @@ class PageController < ApplicationController
   end
 
   def dev
-    @category = Category.find_by_name('Sativa')
-    @sativa = Strain.where(category_id: @category)
+    @category = Category.all
+    @strain = Strain.where(category_id: @category)
 
-    #@response = @sativa.map do |sativa|
-    #    {
-    #      symbol: sativa.symbol,
-    #      name: sativa.name
-    #    }
-    #  end
+    @response = @strain.map do |strain|
+      {
+        symbol: strain.symbol,
+        name: strain.name,
+        slug: strain.slug
+      }
+    end
 
-    render json: @sativa
+    render json: @response
   end
 end
