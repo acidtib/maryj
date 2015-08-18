@@ -1,4 +1,4 @@
-logger.info "Creating Categories"
+puts "Creating Categories"
 Category.create!([
   {name: "Sativa", slug: "sativa"},
   {name: "Indica", slug: "indica"},
@@ -6,7 +6,7 @@ Category.create!([
   {name: "Edible", slug: "edible"}
 ])
 
-logger.info "Creating Conditions"
+puts "Creating Conditions"
 Condition.create!([
   {name: "addadhd"},
   {name: "alzheimers"},
@@ -36,7 +36,7 @@ Condition.create!([
   {name: "tourettessyndrome"}
 ])
 
-logger.info "Creating Condition Items"
+puts "Creating Condition Items"
 ConditionItem.create!([
   {strain_id: 1, condition_id: 4},
   {strain_id: 1, condition_id: 17},
@@ -3695,7 +3695,7 @@ ConditionItem.create!([
   {strain_id: 1498, condition_id: 3}
 ])
 
-logger.info "Creating Effects"
+puts "Creating Effects"
 Effect.create!([
   {name: "anxious"},
   {name: "aroused"},
@@ -3717,7 +3717,7 @@ Effect.create!([
   {name: "uplifted"}
 ])
 
-logger.info "Creating Effect Items"
+puts "Creating Effect Items"
 EffectItem.create!([
   {strain_id: 1, effect_id: 18},
   {strain_id: 1, effect_id: 3},
@@ -10174,7 +10174,7 @@ EffectItem.create!([
   {strain_id: 1498, effect_id: 12}
 ])
 
-logger.info "Creating Flavors"
+puts "Creating Flavors"
 Flavor.create!([
   {name: "ammonia"},
   {name: "apple"},
@@ -10226,7 +10226,7 @@ Flavor.create!([
   {name: "woody"}
 ])
 
-logger.info "Creating Flavor Items"
+puts "Creating Flavor Items"
 FlavorItem.create!([
   {strain_id: 1, flavor_id: 45},
   {strain_id: 2, flavor_id: 4},
@@ -15853,7 +15853,7 @@ FlavorItem.create!([
   {strain_id: 1498, flavor_id: 34}
 ])
 
-logger.info "Creating Strains"
+puts "Creating Strains"
 Strain.create!([
   {slug: "aloha", name: "Aloha", symbol: "Alo", description: nil, category_id: 1},
   {slug: "alohaberry", name: "Alohaberry", symbol: "Alb", description: nil, category_id: 3},
@@ -17355,7 +17355,7 @@ Strain.create!([
   {slug: "dixie-elixirs-sparkling-grapefruit", name: "Dixie Elixirs Sparkling Grapefruit", symbol: "Dxe", description: nil, category_id: 4}
 ])
 
-logger.info "Creating Symptoms"
+puts "Creating Symptoms"
 Symptom.create!([
   {name: "cramps"},
   {name: "depression"},
@@ -17373,7 +17373,7 @@ Symptom.create!([
   {name: "stress"}
 ])
 
-logger.info "Creating Symptom Items"
+puts "Creating Symptom Items"
 SymptomItem.create!([
   {strain_id: 1, symptom_id: 14},
   {strain_id: 1, symptom_id: 11},

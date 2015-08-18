@@ -40,6 +40,5 @@ group :development, :test do
   gem 'spring'
   gem 'annotate', '~> 2.6.6'
   gem 'rails-erd' #use  bundle exec erd
-  gem 'seed_dump' #rake db:seed:dump
 end
 
