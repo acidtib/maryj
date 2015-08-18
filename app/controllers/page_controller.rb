@@ -36,6 +36,8 @@ class PageController < ApplicationController
           @category = 2
         when 'Sativa'
           @category = 1
+        when 'Edible'
+          @category = 4
         end
 
         # creating the strain

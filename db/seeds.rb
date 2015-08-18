@@ -9,7 +9,8 @@
 categories_list = [
   ["Sativa", "sativa"],
   ["Indica", "indica"],
-  ["Hybrid", "hybrid"]
+  ["Hybrid", "hybrid"],
+  ["Edible", "edible"]
 ]
 
 flavors_list = [

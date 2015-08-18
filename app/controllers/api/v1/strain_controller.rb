@@ -3,6 +3,43 @@ class API::V1::StrainController < ApplicationController
   before_filter :cors_preflight_check
   after_filter :cors_set_access_control_headers
 
+  def all
+    begin
+      status = 200
+      
+      @strains = Strain.all
+
+        @strains_response = @strains.map do |strain|
+          {
+            id: strain.id,
+            name: strain.name,
+            slug: strain.slug,
+            category: strain.category.name
+          }
+        end
+
+        @response = {
+          meta: {
+            code: status
+          },
+          data: {
+            strains: @strains_response
+          }
+        }
+    rescue Exception => e
+      status = 500
+        error = e
+        @response = {
+          meta: {
+            code: status,
+            error_message: error
+          }
+        }
+    end
+
+    render json: @response, status: status
+  end
+
   def show
     begin
       status = 200

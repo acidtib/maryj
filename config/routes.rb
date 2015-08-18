@@ -17,6 +17,7 @@ Rails.application.routes.draw do
     scope module: :v1, constraints: ApiConstraints.new(version: 1, default: true) do
       
       scope 'strain' do
+        get '/all' => 'strain#all'
         get ':slug' => 'strain#show'
       end
 
