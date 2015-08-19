@@ -1,0 +1,328 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE database SYSTEM "file:///System/Library/DTDs/CoreData.dtd">
+
+<database>
+    <databaseInfo>
+        <version>134481920</version>
+        <UUID>1201B656-C834-49C9-A5ED-CAE6EF7ECE54</UUID>
+        <nextObjectID>127</nextObjectID>
+        <metadata>
+            <plist version="1.0">
+                <dict>
+                    <key>NSPersistenceFrameworkVersion</key>
+                    <integer>526</integer>
+                    <key>NSStoreModelVersionHashes</key>
+                    <dict>
+                        <key>LMCookieJar</key>
+                        <data>
+		Fttmf2L4PrGvKUF496+nqgVVGek45TjOe7sUMtjNg8I=
+		</data>
+                        <key>LMEnvironment</key>
+                        <data>
+		uzBoVFcO4YvR9/3ej4AJ1UOOsA/u5DKY2aemusoIseU=
+		</data>
+                        <key>LMEnvironmentDomain</key>
+                        <data>
+		yM1GPGHdquS8IWLtuczlNoqKhIhD9FW6IReSfFffJgs=
+		</data>
+                        <key>LMEnvironmentVariable</key>
+                        <data>
+		P8e0lYd5JZKRabS/eXVSOJ4oitilz67xtv+pLqW1Jqg=
+		</data>
+                        <key>LMEnvironmentVariableValue</key>
+                        <data>
+		my5hNPJ51oDCSa8EgdNxWAnRcDLcERUGjtuXnzhSxQ0=
+		</data>
+                        <key>LMKeyValue</key>
+                        <data>
+		bIXXbyYF2xAv2MXg8JTVFsslmMKuvsfnR86QdUcFkdM=
+		</data>
+                        <key>LMRequest</key>
+                        <data>
+		kYB6By9dZHqmH3YNw3h9tYPoxeG5ZWHPfhLXXp7OLFs=
+		</data>
+                        <key>LMRequestGroup</key>
+                        <data>
+		N3ml+gYVWc4m0LSGLnBDJ37p9isOc41y+TtaM0Eacrc=
+		</data>
+                        <key>LMRequestTreeItem</key>
+                        <data>
+		ak+hYb/lDeG55U0kgGvU5ej7HUltUj0RTrX5z/izNrs=
+		</data>
+                    </dict>
+                    <key>NSStoreModelVersionHashesVersion</key>
+                    <integer>3</integer>
+                    <key>NSStoreModelVersionIdentifiers</key>
+                    <array>
+                        <string>LMDocumentVersion3</string>
+                    </array>
+                </dict>
+            </plist>
+        </metadata>
+    </databaseInfo>
+    <object type="LMENVIRONMENTVARIABLEVALUE" id="z102">
+        <attribute name="value" type="string"></attribute>
+        <relationship name="environment" type="1/1" destination="LMENVIRONMENT" idrefs="z105"></relationship>
+        <relationship name="variable" type="1/1" destination="LMENVIRONMENTVARIABLE" idrefs="z108"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z103">
+        <attribute name="uuid" type="string">34E18E11-F0C3-407B-A495-D3ECE0E1D73E</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/all</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">/strain/all</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z106 z109"></relationship>
+    </object>
+    <object type="LMENVIRONMENTDOMAIN" id="z104">
+        <attribute name="uuid" type="string">C0D7114F-DE8A-4B69-801B-D2985D23A49A</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Default Domain</attribute>
+        <relationship name="environments" type="0/0" destination="LMENVIRONMENT" idrefs="z105"></relationship>
+        <relationship name="variables" type="0/0" destination="LMENVIRONMENTVARIABLE" idrefs="z108"></relationship>
+    </object>
+    <object type="LMENVIRONMENT" id="z105">
+        <attribute name="uuid" type="string">D38A2B1F-2EFC-4419-9AD6-A220A1C779DA</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Default Environment</attribute>
+        <relationship name="domain" type="0/1" destination="LMENVIRONMENTDOMAIN" idrefs="z104"></relationship>
+        <relationship name="variablesvalues" type="0/0" destination="LMENVIRONMENTVARIABLEVALUE" idrefs="z102"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z106">
+        <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Accept</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z103"></relationship>
+    </object>
+    <object type="LMCOOKIEJAR" id="z107">
+        <attribute name="uuid" type="string">C1E8252E-5E36-4409-9B05-53027F748424</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">Default Jar</attribute>
+    </object>
+    <object type="LMENVIRONMENTVARIABLE" id="z108">
+        <attribute name="uuid" type="string">D3D315A7-F0E0-4B69-88E1-2B61E3E65666</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string"></attribute>
+        <relationship name="domain" type="0/1" destination="LMENVIRONMENTDOMAIN" idrefs="z104"></relationship>
+        <relationship name="values" type="0/0" destination="LMENVIRONMENTVARIABLEVALUE" idrefs="z102"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z109">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z103"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z110">
+        <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Accept</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z112"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z111">
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z112"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z112">
+        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"sativa\\"],\\"params\\":{\\"flavor\\":\\"tropical\\"}}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
+        <attribute name="uuid" type="string">A8984C80-0495-47AF-8DAE-5BFA15F99E26</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/search</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">POST</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">/strain/search</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z110 z111"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z113">
+        <attribute name="uuid" type="string">C2EA65DF-17F9-4AF4-A2AE-7D4E586FCC8B</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/sour-diesel</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">2</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z114 z115"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z114">
+        <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Accept</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z113"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z115">
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z113"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z116">
+        <attribute name="uuid" type="string">0799AD6A-AC8B-421F-BB36-14BBDCBEE835</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/sour-diesel/condition</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">3</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug/condition</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z117 z118"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z117">
+        <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Accept</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z116"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z118">
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z116"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z119">
+        <attribute name="uuid" type="string">D73EBD97-A098-48D8-B6C3-89F577042EDF</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/fire-og/effect</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">4</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug/effect</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z121 z120"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z120">
+        <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Accept</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z119"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z121">
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z119"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z122">
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z123"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z123">
+        <attribute name="uuid" type="string">E4D140DB-5C27-42EA-B01F-E3C1D935A38E</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/sour-diesel/flavor</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">5</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug/flavor</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z122 z124"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z124">
+        <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Accept</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z123"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z125">
+        <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Accept</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z126"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z126">
+        <attribute name="uuid" type="string">B281A67F-A42E-4A1D-8BED-D034E33BE8DD</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/fire-og/symptom</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">6</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug/symptom</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z125 z127"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z127">
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z126"></relationship>
+    </object>
+</database>
