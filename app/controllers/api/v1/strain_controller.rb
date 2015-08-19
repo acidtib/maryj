@@ -115,18 +115,42 @@ class API::V1::StrainController < ApplicationController
   end
 
   def search
-    @strain = Strain.where(nil) # creates an anonymous scope
+    @strain = Strain.where(nil).limit(2) # creates an anonymous scope
 
     if params[:category].present?
-      strain = nil
+      category_array = []
       params[:category].each do |category|
-        logger.info category
         @category = Category.find_by_slug(category)
         @strain = @strain.category(@category)
-        strain = @strain
+        category_array << @strain
       end
+
+      @strain = category_array[0]
     end
 
-    render json: @strain
+    if params[:flavor].present?
+      @flavor = Flavor.find_by_name(params[:flavor])
+      @strain = @strain.flavor(@flavor)
+    end
+
+    @search_response = @strain.map do |strain|
+      {
+        id: strain.id,
+        name: strain.name,
+        slug: strain.slug,
+        category: strain.category.name
+      }
+    end
+
+    @response = {
+      meta: {
+        code: 200
+      },
+      data: {
+        search: @search_response
+      }
+    }
+
+    render json: @response
   end
 end
