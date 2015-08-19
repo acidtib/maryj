@@ -115,6 +115,18 @@ class API::V1::StrainController < ApplicationController
   end
 
   def search
-    
+    @strain = Strain.where(nil) # creates an anonymous scope
+
+    if params[:category].present?
+      strain = nil
+      params[:category].each do |category|
+        logger.info category
+        @category = Category.find_by_slug(category)
+        @strain = @strain.category(@category)
+        strain = @strain
+      end
+    end
+
+    render json: @strain
   end
 end

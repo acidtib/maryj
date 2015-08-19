@@ -16,7 +16,7 @@ Rails.application.routes.draw do
       
       scope 'strain' do
         get '/all' => 'strain#all'
-        get '/search' => 'strain#search'
+        post '/search' => 'strain#search'
         
         get ':slug' => 'strain#show'
         scope ':slug' do

@@ -27,6 +27,8 @@ class Strain < ActiveRecord::Base
   has_many :symptom_items
   has_many :symptoms, :through => :symptom_items
 
+  scope :category, -> (category) { where category_id: category }
+
   #before_create :generate_slug
 
 
