@@ -134,6 +134,12 @@ class API::V1::StrainController < ApplicationController
       @strain = @flavor
     end
 
+    if params[:effect].present?
+      @effect = Effect.find_by_name(params[:effect])
+      @effect = @strain.joins(:effect_items).where("effect_items.effect_id = ?", @effect)
+      @strain = @effect
+    end
+
     @search_response = @strain.map do |strain|
       {
         id: strain.id,

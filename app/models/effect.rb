@@ -9,5 +9,7 @@
 #
 
 class Effect < ActiveRecord::Base
-
+  belongs_to :strain
+  has_many :effect_items
+  has_many :strains, :through => :effect_items
 end
