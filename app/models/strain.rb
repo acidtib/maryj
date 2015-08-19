@@ -28,7 +28,6 @@ class Strain < ActiveRecord::Base
   has_many :symptoms, :through => :symptom_items
 
   scope :category, -> (category) { where category_id: category }
-  scope :flavor, -> (flavor) { where flavor_id: flavor }
 
   #before_create :generate_slug
 

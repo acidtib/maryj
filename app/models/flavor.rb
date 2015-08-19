@@ -9,5 +9,7 @@
 #
 
 class Flavor < ActiveRecord::Base
-
+  belongs_to :strain
+  has_many :flavor_items
+  has_many :strains, :through => :flavor_items
 end

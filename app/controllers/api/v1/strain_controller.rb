@@ -130,7 +130,8 @@ class API::V1::StrainController < ApplicationController
 
     if params[:flavor].present?
       @flavor = Flavor.find_by_name(params[:flavor])
-      @strain = @strain.flavor(@flavor)
+      @flavor = @strain.joins(:flavor_items).where("flavor_items.flavor_id = ?", @flavor)
+      @strain = @flavor
     end
 
     @search_response = @strain.map do |strain|
