@@ -9,5 +9,7 @@
 #
 
 class Condition < ActiveRecord::Base
-  
+  belongs_to :strain
+  has_many :condition_items
+  has_many :strains, :through => :condition_items
 end

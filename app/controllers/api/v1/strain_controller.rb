@@ -128,16 +128,28 @@ class API::V1::StrainController < ApplicationController
       @strain = category_array[0]
     end
 
-    if params[:flavor].present?
-      @flavor = Flavor.find_by_name(params[:flavor])
+    if params[:params][:flavor].present?
+      @flavor = Flavor.find_by_name(params[:params][:flavor])
       @flavor = @strain.joins(:flavor_items).where("flavor_items.flavor_id = ?", @flavor)
       @strain = @flavor
     end
 
-    if params[:effect].present?
-      @effect = Effect.find_by_name(params[:effect])
+    if params[:params][:effect].present?
+      @effect = Effect.find_by_name(params[:params][:effect])
       @effect = @strain.joins(:effect_items).where("effect_items.effect_id = ?", @effect)
       @strain = @effect
+    end
+
+    if params[:params][:condition].present?
+      @condition = Condition.find_by_name(params[:params][:condition])
+      @condition = @strain.joins(:condition_items).where("condition_items.condition_id = ?", @condition)
+      @strain = @condition
+    end
+
+    if params[:params][:symptom].present?
+      @symptom = Symptom.find_by_name(params[:params][:symptom])
+      @symptom = @strain.joins(:symptom_items).where("symptom_items.symptom_id = ?", @symptom)
+      @strain = @symptom
     end
 
     @search_response = @strain.map do |strain|
