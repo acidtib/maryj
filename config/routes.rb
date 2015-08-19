@@ -2,7 +2,6 @@ require 'api_constraints'
 
 Rails.application.routes.draw do
 
-
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -10,7 +9,6 @@ Rails.application.routes.draw do
   root 'page#home'
 
   get 'dev' => 'page#dev'
-
 
   namespace :api, :path => "", :constraints => {:subdomain => "api"}, :defaults => {:format => :json} do
 
