@@ -7,7 +7,7 @@ class API::V1::StrainController < ApplicationController
     begin
       status = 200
       
-      @strains = Strain.all
+      @strains = Strain.all.limit(2)
 
         @strains_response = @strains.map do |strain|
           {
