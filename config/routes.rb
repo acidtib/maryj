@@ -20,10 +20,10 @@ Rails.application.routes.draw do
         
         get ':slug' => 'strain#show'
         scope ':slug' do
-          get '/condition' => 'condition#condition'
-          get '/effect' => 'condition#effect'
-          get '/flavor' => 'condition#flavor'
-          get '/symptom' => 'condition#symptom'
+          get '/conditions' => 'condition#conditions'
+          get '/effects' => 'condition#effects'
+          get '/flavors' => 'condition#flavors'
+          get '/symptoms' => 'condition#symptoms'
         end
       end
 

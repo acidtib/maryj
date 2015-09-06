@@ -3,7 +3,7 @@ class API::V1::ConditionController < ApplicationController
   before_filter :cors_preflight_check
   after_filter :cors_set_access_control_headers
 
-  def condition
+  def conditions
     begin
       status = 200
       
@@ -48,7 +48,7 @@ class API::V1::ConditionController < ApplicationController
     render json: @response, status: status
   end
 
-  def effect
+  def effects
     begin
       status = 200
       
@@ -93,7 +93,7 @@ class API::V1::ConditionController < ApplicationController
     render json: @response, status: status
   end
 
-  def flavor
+  def flavors
     begin
       status = 200
       
@@ -138,7 +138,7 @@ class API::V1::ConditionController < ApplicationController
     render json: @response, status: status
   end
 
-  def symptom
+  def symptoms
     begin
       status = 200
       

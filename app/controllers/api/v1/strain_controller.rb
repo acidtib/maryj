@@ -79,7 +79,7 @@ class API::V1::StrainController < ApplicationController
           category: @strain.category.name,
           conditions: @conditions_array,
           effects: @effects_array,
-          flavor: @flavors_array,
+          flavors: @flavors_array,
           symptoms: @symptoms_array
         }
 
@@ -130,10 +130,15 @@ class API::V1::StrainController < ApplicationController
 
     if params[:params].present?
 
-      if params[:params][:flavor].present?
-        @flavor = Flavor.find_by_name(params[:params][:flavor])
-        @flavor = @strain.joins(:flavor_items).where("flavor_items.flavor_id = ?", @flavor)
-        @strain = @flavor
+      if params[:params][:flavors].present?
+        flavors_array = []
+        params[:params][:flavors].each do |flavor|
+          @flavor = Flavor.find_by_name(flavor)
+          @flavor = @strain.joins(:flavor_items).where("flavor_items.flavor_id = ?", @flavor)
+          flavors_array << @flavor
+        end
+
+        @strain = flavors_array[0]
       end
 
       if params[:params][:effect].present?

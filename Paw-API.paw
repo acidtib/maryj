@@ -145,7 +145,7 @@
         <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z112"></relationship>
     </object>
     <object type="LMREQUEST" id="z112">
-        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"sativa\\"],\\"params\\":{\\"flavor\\":\\"tropical\\"}}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
+        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"indica\\"],\\"params\\":{\\"flavors\\":[\\"pine\\",\\"sweet\\"]}}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
         <attribute name="uuid" type="string">A8984C80-0495-47AF-8DAE-5BFA15F99E26</attribute>
         <attribute name="url" type="string">http://api.maryj.dev/strain/search</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
@@ -158,11 +158,11 @@
         <attribute name="name" type="string">/strain/search</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
         <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
-        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z110 z111"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z111 z110"></relationship>
     </object>
     <object type="LMREQUEST" id="z113">
         <attribute name="uuid" type="string">C2EA65DF-17F9-4AF4-A2AE-7D4E586FCC8B</attribute>
-        <attribute name="url" type="string">http://api.maryj.dev/strain/sour-diesel</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/tora-bora</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
         <attribute name="sendcookies" type="bool">1</attribute>
         <attribute name="redirectmethod" type="bool">0</attribute>
@@ -195,7 +195,7 @@
     </object>
     <object type="LMREQUEST" id="z116">
         <attribute name="uuid" type="string">0799AD6A-AC8B-421F-BB36-14BBDCBEE835</attribute>
-        <attribute name="url" type="string">http://api.maryj.dev/strain/sour-diesel/condition</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/sour-diesel/conditions</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
         <attribute name="sendcookies" type="bool">1</attribute>
         <attribute name="redirectmethod" type="bool">0</attribute>
@@ -203,10 +203,10 @@
         <attribute name="method" type="string">GET</attribute>
         <attribute name="followredirects" type="bool">0</attribute>
         <attribute name="order" type="int64">3</attribute>
-        <attribute name="name" type="string">/strain/:strain-slug/condition</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug/conditions</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
         <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
-        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z117 z118"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z118 z117"></relationship>
     </object>
     <object type="LMKEYVALUE" id="z117">
         <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
@@ -228,7 +228,7 @@
     </object>
     <object type="LMREQUEST" id="z119">
         <attribute name="uuid" type="string">D73EBD97-A098-48D8-B6C3-89F577042EDF</attribute>
-        <attribute name="url" type="string">http://api.maryj.dev/strain/fire-og/effect</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/true-og/effects</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
         <attribute name="sendcookies" type="bool">1</attribute>
         <attribute name="redirectmethod" type="bool">0</attribute>
@@ -236,10 +236,10 @@
         <attribute name="method" type="string">GET</attribute>
         <attribute name="followredirects" type="bool">0</attribute>
         <attribute name="order" type="int64">4</attribute>
-        <attribute name="name" type="string">/strain/:strain-slug/effect</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug/effects</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
         <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
-        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z121 z120"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z120 z121"></relationship>
     </object>
     <object type="LMKEYVALUE" id="z120">
         <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
@@ -269,7 +269,7 @@
     </object>
     <object type="LMREQUEST" id="z123">
         <attribute name="uuid" type="string">E4D140DB-5C27-42EA-B01F-E3C1D935A38E</attribute>
-        <attribute name="url" type="string">http://api.maryj.dev/strain/sour-diesel/flavor</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/sour-diesel/flavors</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
         <attribute name="sendcookies" type="bool">1</attribute>
         <attribute name="redirectmethod" type="bool">0</attribute>
@@ -277,10 +277,10 @@
         <attribute name="method" type="string">GET</attribute>
         <attribute name="followredirects" type="bool">0</attribute>
         <attribute name="order" type="int64">5</attribute>
-        <attribute name="name" type="string">/strain/:strain-slug/flavor</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug/flavors</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
         <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
-        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z122 z124"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z124 z122"></relationship>
     </object>
     <object type="LMKEYVALUE" id="z124">
         <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
@@ -304,7 +304,7 @@
     </object>
     <object type="LMREQUEST" id="z126">
         <attribute name="uuid" type="string">B281A67F-A42E-4A1D-8BED-D034E33BE8DD</attribute>
-        <attribute name="url" type="string">http://api.maryj.dev/strain/fire-og/symptom</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/fire-og/symptoms</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
         <attribute name="sendcookies" type="bool">1</attribute>
         <attribute name="redirectmethod" type="bool">0</attribute>
@@ -312,10 +312,10 @@
         <attribute name="method" type="string">GET</attribute>
         <attribute name="followredirects" type="bool">0</attribute>
         <attribute name="order" type="int64">6</attribute>
-        <attribute name="name" type="string">/strain/:strain-slug/symptom</attribute>
+        <attribute name="name" type="string">/strain/:strain-slug/symptoms</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
         <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
-        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z125 z127"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z127 z125"></relationship>
     </object>
     <object type="LMKEYVALUE" id="z127">
         <attribute name="order" type="int64">1</attribute>
