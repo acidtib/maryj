@@ -162,7 +162,7 @@
     </object>
     <object type="LMREQUEST" id="z113">
         <attribute name="uuid" type="string">C2EA65DF-17F9-4AF4-A2AE-7D4E586FCC8B</attribute>
-        <attribute name="url" type="string">http://api.maryj.dev/strain/tora-bora</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/argyle</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
         <attribute name="sendcookies" type="bool">1</attribute>
         <attribute name="redirectmethod" type="bool">0</attribute>
