@@ -141,7 +141,17 @@ class API::V1::StrainController < ApplicationController
         @strain = flavors_array[0]
       end
 
-      if params[:params][:effect].present?
+      if params[:params][:effects].present?
+        effects_array = []
+        params[:params][:effects].each do |effect|
+          @effect = Effect.find_by_name(effect)
+          @effect = @strain.joins(:effect_items).where("effect_items.effect_id = ?", @effect)
+          effects_array << @effect
+        end
+
+        @strain = effects_array[0]
+
+
         @effect = Effect.find_by_name(params[:params][:effect])
         @effect = @strain.joins(:effect_items).where("effect_items.effect_id = ?", @effect)
         @strain = @effect
