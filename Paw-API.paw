@@ -145,7 +145,7 @@
         <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z112"></relationship>
     </object>
     <object type="LMREQUEST" id="z112">
-        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"indica\\"],\\"params\\":{\\"flavors\\":[\\"pine\\",\\"sweet\\"]}}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
+        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"sativa\\"],\\"params\\":{\\"flavors\\":[\\"tropical\\"],\\"conditions\\":[\\"anxiety\\"],\\"effects\\":[\\"focused\\"],\\"symptoms\\":[\\"stress\\"]}}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
         <attribute name="uuid" type="string">A8984C80-0495-47AF-8DAE-5BFA15F99E26</attribute>
         <attribute name="url" type="string">http://api.maryj.dev/strain/search</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
@@ -162,7 +162,7 @@
     </object>
     <object type="LMREQUEST" id="z113">
         <attribute name="uuid" type="string">C2EA65DF-17F9-4AF4-A2AE-7D4E586FCC8B</attribute>
-        <attribute name="url" type="string">http://api.maryj.dev/strain/argyle</attribute>
+        <attribute name="url" type="string">http://api.maryj.dev/strain/hawaiian-haze</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
         <attribute name="sendcookies" type="bool">1</attribute>
         <attribute name="redirectmethod" type="bool">0</attribute>
@@ -173,7 +173,7 @@
         <attribute name="name" type="string">/strain/:strain-slug</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
         <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
-        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z114 z115"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z115 z114"></relationship>
     </object>
     <object type="LMKEYVALUE" id="z114">
         <attribute name="value" type="string">application/vnd.maryj.v1</attribute>

@@ -150,23 +150,28 @@ class API::V1::StrainController < ApplicationController
         end
 
         @strain = effects_array[0]
-
-
-        @effect = Effect.find_by_name(params[:params][:effect])
-        @effect = @strain.joins(:effect_items).where("effect_items.effect_id = ?", @effect)
-        @strain = @effect
       end
 
-      if params[:params][:condition].present?
-        @condition = Condition.find_by_name(params[:params][:condition])
-        @condition = @strain.joins(:condition_items).where("condition_items.condition_id = ?", @condition)
-        @strain = @condition
+      if params[:params][:conditions].present?
+        conditions_array = []
+        params[:params][:conditions].each do |condition|
+          @condition = Condition.find_by_name(condition)
+          @condition = @strain.joins(:condition_items).where("condition_items.condition_id = ?", @condition)
+          conditions_array << @condition
+        end
+
+        @strain = conditions_array[0]
       end
 
-      if params[:params][:symptom].present?
-        @symptom = Symptom.find_by_name(params[:params][:symptom])
-        @symptom = @strain.joins(:symptom_items).where("symptom_items.symptom_id = ?", @symptom)
-        @strain = @symptom
+      if params[:params][:symptoms].present?
+        symptoms_array = []
+        params[:params][:symptoms].each do |symptom|
+          @symptom = Symptom.find_by_name(symptom)
+          @symptom = @strain.joins(:symptom_items).where("symptom_items.symptom_id = ?", @symptom)
+          symptoms_array << @symptom
+        end
+
+        @strain = symptoms_array[0]
       end
 
     end
