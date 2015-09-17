@@ -7,7 +7,7 @@ class API::V1::DefinitionController < ApplicationController
     begin
       status = 200
 
-      @conditions = Condition.all
+      @conditions = Condition.all.page(params[:page])
 
       @conditions_response = @conditions.map do |condition|
         {
@@ -18,7 +18,8 @@ class API::V1::DefinitionController < ApplicationController
 
       @response = {
         meta: {
-          code: status
+          code: status,
+          pagination: pagination(@conditions)
         },
         data: {
           conditions: @conditions_response
@@ -42,7 +43,7 @@ class API::V1::DefinitionController < ApplicationController
     begin
       status = 200
 
-      @effects = Effect.all
+      @effects = Effect.all.page(params[:page])
 
       @effects_response = @effects.map do |effect|
         {
@@ -53,7 +54,8 @@ class API::V1::DefinitionController < ApplicationController
 
       @response = {
         meta: {
-          code: status
+          code: status,
+          pagination: pagination(@effects)
         },
         data: {
           effects: @effects_response
@@ -77,7 +79,7 @@ class API::V1::DefinitionController < ApplicationController
     begin
       status = 200
 
-      @flavors = Flavor.all
+      @flavors = Flavor.all.page(params[:page])
 
       @flavors_response = @flavors.map do |flavor|
         {
@@ -88,7 +90,8 @@ class API::V1::DefinitionController < ApplicationController
 
       @response = {
         meta: {
-          code: status
+          code: status,
+          pagination: pagination(@flavors)
         },
         data: {
           flavors: @flavors_response
@@ -112,7 +115,7 @@ class API::V1::DefinitionController < ApplicationController
     begin
       status = 200
 
-      @symptoms = Symptom.all
+      @symptoms = Symptom.all.page(params[:page])
 
       @symptoms_response = @symptoms.map do |symptom|
         {
@@ -123,7 +126,8 @@ class API::V1::DefinitionController < ApplicationController
 
       @response = {
         meta: {
-          code: status
+          code: status,
+          pagination: pagination(@symptoms)
         },
         data: {
           symptoms: @symptoms_response
