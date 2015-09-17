@@ -44,7 +44,7 @@ class API::V1::StrainController < ApplicationController
     begin
       status = 200
 
-      @strain = Strain.find_by_slug(params['slug'])
+      @strain = Strain.includes(:category, :effects, :flavors, :conditions, :symptoms).find_by_slug(params['slug'])
 
       if @strain
 
@@ -118,9 +118,9 @@ class API::V1::StrainController < ApplicationController
     
 
     if params[:search].present?
-      @strain = Strain.search(params[:search]).includes(:category)
+      @strain = Strain.search(params[:search]).includes(:category, :effects, :flavors, :conditions, :symptoms)
     else
-      @strain = Strain.where(nil) # creates an anonymous scope    
+      @strain = Strain.where(nil).includes(:category, :effects, :flavors, :conditions, :symptoms) # creates an anonymous scope    
     end
 
     if params[:category].present?

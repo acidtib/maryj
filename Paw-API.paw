@@ -145,7 +145,7 @@
         <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z112"></relationship>
     </object>
     <object type="LMREQUEST" id="z112">
-        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"sativa\\"],\\"definition\\":{\\"flavors\\":[\\"tropical\\"]},\\"search\\":\\"sour\\"}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
+        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"sativa\\"],\\"definition\\":{\\"flavors\\":[\\"tropical\\"]}}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
         <attribute name="uuid" type="string">A8984C80-0495-47AF-8DAE-5BFA15F99E26</attribute>
         <attribute name="url" type="string">http://api.maryj.dev/strain/search</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
@@ -377,7 +377,7 @@
         <attribute name="name" type="string">/definition/conditions</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM" idrefs="z129"></relationship>
         <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
-        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z130 z131"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z131 z130"></relationship>
     </object>
     <object type="LMKEYVALUE" id="z133">
         <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
@@ -406,7 +406,6 @@
         <attribute name="redirectauthorization" type="bool">0</attribute>
         <attribute name="method" type="string">GET</attribute>
         <attribute name="followredirects" type="bool">0</attribute>
-        <attribute name="body" type="string">[{"data":{"json":"{}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
         <attribute name="order" type="int64">1</attribute>
         <attribute name="name" type="string">/definition/effects</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM" idrefs="z129"></relationship>
@@ -430,12 +429,11 @@
         <attribute name="redirectauthorization" type="bool">0</attribute>
         <attribute name="method" type="string">GET</attribute>
         <attribute name="followredirects" type="bool">0</attribute>
-        <attribute name="body" type="string">[{"data":{"json":"{}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
         <attribute name="order" type="int64">2</attribute>
         <attribute name="name" type="string">/definition/flavors</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM" idrefs="z129"></relationship>
         <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
-        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z136 z138"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z138 z136"></relationship>
     </object>
     <object type="LMKEYVALUE" id="z138">
         <attribute name="value" type="string">application/vnd.maryj.v1</attribute>
@@ -466,7 +464,6 @@
         <attribute name="redirectauthorization" type="bool">0</attribute>
         <attribute name="method" type="string">GET</attribute>
         <attribute name="followredirects" type="bool">0</attribute>
-        <attribute name="body" type="string">[{"data":{"json":"{}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
         <attribute name="order" type="int64">3</attribute>
         <attribute name="name" type="string">/definition/symptoms</attribute>
         <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM" idrefs="z129"></relationship>
