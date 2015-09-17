@@ -22,13 +22,36 @@ class ApplicationController < ActionController::Base
   end
 
   def pagination(collection)
-    @response = {
+
+    @pagination_response = {
       per_page: ::Kaminari.config.default_per_page,
       total_pages: collection.total_pages,
       total_objects: collection.total_count,
-      links: 1
+      links: pagination_links(collection)
     }
 
-    return @response
+    return @pagination_response
+  end
+
+  def pagination_links(collection)
+    current_uri = "#{env['API_DOMAIN'] || "http://api.maryj.dev"}"+request.env['PATH_INFO']
+    meta_links = {}
+
+    pages(collection).each do |key, value|
+      query_params = request.query_parameters.merge(page: value)
+      meta_links[key] = "#{current_uri}?#{query_params.to_param}"
+    end
+
+    meta_links
+  end
+
+  def pages(collection)
+    {}.tap do |paging|
+      paging[:first] = 1
+      paging[:last] = collection.total_pages
+
+      paging[:prev] = collection.current_page - 1 unless collection.first_page?
+      paging[:next] = collection.current_page + 1 unless collection.last_page? or collection.current_page >= collection.total_pages
+    end
   end
 end

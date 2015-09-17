@@ -20,7 +20,8 @@ class API::V1::StrainController < ApplicationController
 
         @response = {
           meta: {
-            code: status
+            code: status,
+            pagination: pagination(@strains)
           },
           data: {
             strains: @strains_response
@@ -36,8 +37,6 @@ class API::V1::StrainController < ApplicationController
           }
         }
     end
-
-    logger.info pagination(@strains)
 
     render json: @response, status: status
   end
