@@ -121,7 +121,7 @@ class API::V1::StrainController < ApplicationController
     if params[:search].present?
       @strain = Strain.search(params[:search]).includes(:category, :effects, :flavors, :conditions, :symptoms)
     else
-      @strain = Strain.where(nil).includes(:category, :effects, :flavors, :conditions, :symptoms) # creates an anonymous scope    
+      @strain = Strain.where(nil).includes(:category, :effects, :flavors, :conditions, :symptoms).page(params[:page]) # creates an anonymous scope    
     end
 
     if params[:category].present?
@@ -194,7 +194,8 @@ class API::V1::StrainController < ApplicationController
 
     @response = {
       meta: {
-        code: 200
+        code: 200,
+        pagination: pagination(@strain)
       },
       data: {
         search: @search_response
