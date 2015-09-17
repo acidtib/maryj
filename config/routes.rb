@@ -27,6 +27,13 @@ Rails.application.routes.draw do
         end
       end
 
+      scope 'definition' do
+        get '/conditions' => 'definition#conditions'
+        get '/effects' => 'definition#effects'
+        get '/flavors' => 'definition#flavors'
+        get '/symptoms' => 'definition#symptoms'
+      end
+
     end
   end
 
