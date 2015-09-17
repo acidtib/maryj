@@ -128,11 +128,11 @@ class API::V1::StrainController < ApplicationController
       @strain = category_array[0]
     end
 
-    if params[:params].present?
+    if params[:definition].present?
 
-      if params[:params][:flavors].present?
+      if params[:definition][:flavors].present?
         flavors_array = []
-        params[:params][:flavors].each do |flavor|
+        params[:definition][:flavors].each do |flavor|
           @flavor = Flavor.find_by_name(flavor)
           @flavor = @strain.joins(:flavor_items).where("flavor_items.flavor_id = ?", @flavor)
           flavors_array << @flavor
@@ -141,9 +141,9 @@ class API::V1::StrainController < ApplicationController
         @strain = flavors_array[0]
       end
 
-      if params[:params][:effects].present?
+      if params[:definition][:effects].present?
         effects_array = []
-        params[:params][:effects].each do |effect|
+        params[:definition][:effects].each do |effect|
           @effect = Effect.find_by_name(effect)
           @effect = @strain.joins(:effect_items).where("effect_items.effect_id = ?", @effect)
           effects_array << @effect
@@ -152,9 +152,9 @@ class API::V1::StrainController < ApplicationController
         @strain = effects_array[0]
       end
 
-      if params[:params][:conditions].present?
+      if params[:definition][:conditions].present?
         conditions_array = []
-        params[:params][:conditions].each do |condition|
+        params[:definition][:conditions].each do |condition|
           @condition = Condition.find_by_name(condition)
           @condition = @strain.joins(:condition_items).where("condition_items.condition_id = ?", @condition)
           conditions_array << @condition
@@ -163,9 +163,9 @@ class API::V1::StrainController < ApplicationController
         @strain = conditions_array[0]
       end
 
-      if params[:params][:symptoms].present?
+      if params[:definition][:symptoms].present?
         symptoms_array = []
-        params[:params][:symptoms].each do |symptom|
+        params[:definition][:symptoms].each do |symptom|
           @symptom = Symptom.find_by_name(symptom)
           @symptom = @strain.joins(:symptom_items).where("symptom_items.symptom_id = ?", @symptom)
           symptoms_array << @symptom
