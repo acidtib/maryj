@@ -7,7 +7,7 @@ class API::V1::StrainController < ApplicationController
     begin
       status = 200
       
-      @strains = Strain.all.limit(2)
+      @strains = Strain.all.includes(:category).page(params[:page])
 
         @strains_response = @strains.map do |strain|
           {
@@ -36,6 +36,8 @@ class API::V1::StrainController < ApplicationController
           }
         }
     end
+
+    logger.info pagination(@strains)
 
     render json: @response, status: status
   end

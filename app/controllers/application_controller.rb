@@ -20,4 +20,15 @@ class ApplicationController < ActionController::Base
       render :text => '', :content_type => 'text/plain'
     end
   end
+
+  def pagination(collection)
+    @response = {
+      per_page: ::Kaminari.config.default_per_page,
+      total_pages: collection.total_pages,
+      total_objects: collection.total_count,
+      links: 1
+    }
+
+    return @response
+  end
 end

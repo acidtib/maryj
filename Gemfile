@@ -34,6 +34,11 @@ gem 'httparty'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Pagination
+gem 'kaminari'
+
+
+
 group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
