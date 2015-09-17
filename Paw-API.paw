@@ -145,7 +145,7 @@
         <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z112"></relationship>
     </object>
     <object type="LMREQUEST" id="z112">
-        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"hybrid\\"],\\"search\\":\\"blue\\"}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
+        <attribute name="body" type="string">[{"data":{"json":"{\\"category\\":[\\"sativa\\"],\\"definition\\":{\\"flavors\\":[\\"tropical\\"]},\\"search\\":\\"sour\\"}"},"identifier":"com.luckymarmot.JSONDynamicValue"}]</attribute>
         <attribute name="uuid" type="string">A8984C80-0495-47AF-8DAE-5BFA15F99E26</attribute>
         <attribute name="url" type="string">http://api.maryj.dev/strain/search</attribute>
         <attribute name="storecookies" type="bool">1</attribute>

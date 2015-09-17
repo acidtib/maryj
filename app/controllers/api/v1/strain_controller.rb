@@ -118,7 +118,7 @@ class API::V1::StrainController < ApplicationController
     
 
     if params[:search].present?
-      @strain = Strain.search(params[:search])
+      @strain = Strain.search(params[:search]).includes(:category)
     else
       @strain = Strain.where(nil) # creates an anonymous scope    
     end
