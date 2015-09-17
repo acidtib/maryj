@@ -31,6 +31,9 @@ class Strain < ActiveRecord::Base
 
   #before_create :generate_slug
 
+  def self.search(search)
+    where("name ilike ?", "%#{search}%") 
+  end
 
   private
 
