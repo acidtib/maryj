@@ -13,6 +13,9 @@
 #
 
 class Strain < ActiveRecord::Base
+  include PgSearch
+  pg_search_scope :search_by_name, :against => :name
+
   belongs_to :category
 
   has_many :condition_items
